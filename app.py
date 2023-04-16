@@ -1,7 +1,7 @@
 from tkinter import *
 import time
 import tkinter.messagebox
-from chatBot import Agro
+from chatBot import PlantMedicBot
 import threading
 import random
 
