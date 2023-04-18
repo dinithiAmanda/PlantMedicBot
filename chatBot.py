@@ -17,3 +17,8 @@ from nltk.chat.util import Chat, reflections
 
 import warnings
 warnings.filterwarnings("ignore")
+
+# open dataset
+ds = open("dataset.txt", 'r', errors= "ignore")
+
+
