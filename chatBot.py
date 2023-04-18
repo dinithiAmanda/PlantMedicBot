@@ -21,4 +21,8 @@ warnings.filterwarnings("ignore")
 # open dataset
 ds = open("dataset.txt", 'r', errors= "ignore")
 
+raw = ds.read() # separated sections file
+lraw = raw.lower() # convert to lower case
 
+print("raw")
+print("lraw")
