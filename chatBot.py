@@ -44,3 +44,36 @@ remove_punct_dict = dict((ord(punct), None)for punct in string.punctuation)
 
 def LemNormalize(text):
     return LemTokens(nltk.word_tokenize(text.lower().translate(remove_punct_dict)))
+
+# add greetings
+
+Introduce_Ans = ["My name is PlantMedicBot.", "My name is PlantMedicBot you can called me PlantMedic.", "I'm PlantMedicBot",
+                 "My name is PlantMedicBot. and my nickname is PlantMedic and I am happy to solve your queries"]
+GREETING_INPUTS = ("hello", "hi", "hiii", "hii", "hiiii",
+                   "hiiii", "greetings", "sup", "what's up", "hey",)
+GREETING_RESPONSES = ["hi", "hey", "hii there",
+                      "hi there", "hello", "I am glad! You are talking to me"]
+
+Basic_Q_1 = ("please help", "help me","please help me","can you help me")
+Basic_Ans_1 = ["yes I can", "Tell me", "sure"]
+Basic_Q_2 = ("okay","ok")
+Basic_Ans_2 = ["Is there anything else to know?"]
+Basic_Q_3 = ("no","not yet","Nop","nop")
+Basic_Ans_3 = ["Okay Thank you Bye", "Have a nice day", "Bye"]
+Basic_Q_4 = ("yes","yeah","Yep","yep")
+Basic_Ans_4 = ["What","What else", "Tell me"]
+
+
+small_talk_responses = {
+'how are you': 'I am fine. Thank you for asking ',
+'how are you doing': 'I am fine. Thank you for asking ',
+'how do you do': 'I am great. Thanks for asking ',
+'how are you holding up': 'I am fine. Thank you for asking ',
+'good morning': 'Good Morning ',
+'good afternoon': 'Good Afternoon ',
+'good evening': 'Good Evening ',
+'good day': 'Good day to you too ',
+'whats up': 'The sky ',
+'thank': 'Dont mention it. You are welcome ',
+'thankyou': 'Dont mention it. You are welcome '
+}
