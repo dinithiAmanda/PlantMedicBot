@@ -22,7 +22,6 @@ warnings.filterwarnings("ignore")
 ds = open("dataset.txt", 'r', errors= "ignore")
 
 # normalization
-
 raw = ds.read() # separated sections file
 lraw = raw.lower() # convert to lower case
 
@@ -34,7 +33,6 @@ tokens = nltk.sent_tokenize(lraw) # convert to list of sentences
 # print(tokens)
 
 # lemmartization
-
 lemmer = nltk.stem.WordNetLemmatizer()
 
 def LemTokens(tokens):
@@ -46,7 +44,6 @@ def LemNormalize(text):
     return LemTokens(nltk.word_tokenize(text.lower().translate(remove_punct_dict)))
 
 # add greetings
-
 Introduce_Ans = ["My name is PlantMedicBot.", "My name is PlantMedicBot you can called me PlantMedic.", "I'm PlantMedicBot",
                  "My name is PlantMedicBot. and my nickname is PlantMedic and I am happy to solve your queries"]
 GREETING_INPUTS = ("hello", "hi", "hiii", "hii", "hiiii",
@@ -77,3 +74,64 @@ small_talk_responses = {
 'thank': 'Dont mention it. You are welcome ',
 'thankyou': 'Dont mention it. You are welcome '
 }
+
+# convert to string
+small_talk = small_talk_responses.values()
+small_talk = [str (item) for item in small_talk]
+
+
+def tfidf_cosim_smalltalk(doc, query):
+   query = [query]
+   tf = TfidfVectorizer(use_idf=True, sublinear_tf=True)
+   tf_doc = tf.fit_transform(doc)
+   tf_query = tf.transform(query)
+   cosineSimilarities = cosine_similarity(tf_doc,tf_query).flatten()
+   related_docs_indices = cosineSimilarities.argsort()[:-2:-1]
+   if (cosineSimilarities[related_docs_indices] > 0.7):
+      ans = [small_talk[i] for i in related_docs_indices[:1]]
+      return ans[0]
+
+#Checking for greetings
+def greeting(sentence):
+    for word in sentence.split():
+        if word.lower() in GREETING_INPUTS:
+            return random.choice(GREETING_RESPONSES)
+
+
+#Checking for Introduce
+def IntroduceMe(sentence):
+    return random.choice(Introduce_Ans)
+
+
+# Checking for Basic_Q_1
+def basic1(sentence):
+    for word in Basic_Q_1:
+        if sentence.lower() == word:
+            return random.choice(Basic_Ans_1)
+
+# Checking for Basic_Q_2
+def basic2(sentence):
+    for word in Basic_Q_2:
+        if sentence.lower() == word:
+            return random.choice(Basic_Ans_2)
+
+
+# Checking for Basic_Q_3
+def basic3(sentence):
+    for word in Basic_Q_3:
+        if sentence.lower() == word:
+            return random.choice(Basic_Ans_3)
+
+
+# Checking for Basic_Q_34
+def basic4(sentence):
+    for word in Basic_Q_4:
+        if sentence.lower() == word:
+            return random.choice(Basic_Ans_4)
+
+all_text = tokens
+# print(all_text)
+
+
+
+
