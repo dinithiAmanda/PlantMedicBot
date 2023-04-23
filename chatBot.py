@@ -8,7 +8,6 @@ import random
 import string
 import numpy as np
 import nltk
-import datetime
 from nltk.chat.util import Chat, reflections 
 
 # * first-time use only
@@ -147,6 +146,23 @@ def stem_tfidf(doc, query):
    
    return tf_doc, tf_query
 
+# calculates the cosine similarity between a document and a query
+
+def cos_sim(x, y): #tf_doc, tf_query
+   cosineSimilarities = cosine_similarity(x, y).flatten()
+   related_docs_indices = cosineSimilarities.argsort()[:-2:-1]
+   
+   print(cosineSimilarities[related_docs_indices])
+   
+   if (cosineSimilarities[related_docs_indices] > 0.1):
+      ans = [all_text[i] for i in related_docs_indices[:1]]
+      
+      ans = ' '.join(ans)
+      return ans
+
+   else:
+      k = 'I am sorry, I cannot help you with this one. Hope to in the future.'
+      return k
 
 
 
