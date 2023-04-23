@@ -129,8 +129,25 @@ def basic4(sentence):
         if sentence.lower() == word:
             return random.choice(Basic_Ans_4)
 
-all_text = tokens
 # print(all_text)
+all_text = tokens
+
+# reduce the dimensionality of text data and improve the accuracy 
+
+def stem_tfidf(doc, query):
+   query = [query]
+   p_stemmer = PorterStemmer()
+   
+   tf = TfidfVectorizer(tokenizer=LemNormalize, stop_words='english')
+   stemmed_doc = [p_stemmer.stem(w) for w in doc]
+   stemmed_query = [p_stemmer.stem(w) for w in query]
+   
+   tf_doc = tf.fit_transform(stemmed_doc)
+   tf_query = tf.transform(stemmed_query)
+   
+   return tf_doc, tf_query
+
+
 
 
 
