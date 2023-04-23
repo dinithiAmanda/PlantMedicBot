@@ -132,7 +132,6 @@ def basic4(sentence):
 all_text = tokens
 
 # reduce the dimensionality of text data and improve the accuracy 
-
 def stem_tfidf(doc, query):
    query = [query]
    p_stemmer = PorterStemmer()
@@ -147,7 +146,6 @@ def stem_tfidf(doc, query):
    return tf_doc, tf_query
 
 # calculates the cosine similarity between a document and a query
-
 def cos_sim(x, y): #tf_doc, tf_query
    cosineSimilarities = cosine_similarity(x, y).flatten()
    related_docs_indices = cosineSimilarities.argsort()[:-2:-1]
@@ -163,6 +161,15 @@ def cos_sim(x, y): #tf_doc, tf_query
    else:
       k = 'I am sorry, I cannot help you with this one. Hope to in the future.'
       return k
+   
+   #Generating response lemos
+def response(user_response):
+    x, y = stem_tfidf(all_text, user_response)
+    g = cos_sim(x, y)
+    print('\nPlantMedicBot: '+g)
+    # print('PlantMedicBot')
+    # print(g)
+    return g
 
 
 
