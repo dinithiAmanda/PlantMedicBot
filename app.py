@@ -301,3 +301,12 @@ class ChatInterface(Frame):
     def default_format(self):
         self.font_change_default()
         self.color_theme_default()
+
+# Root function & add image
+root = Tk()
+
+a = ChatInterface(root)
+root.geometry(window_size)
+root.title("PlantMedicBot")
+root.iconbitmap('PlantMedicBot.ico')
+root.mainloop()
