@@ -119,9 +119,31 @@ class ChatInterface(Frame):
 
     def msg(self):
         tkinter.messagebox.showinfo(
-            "PlantMedicBot v1.0", 'PlantMedicBot is a chatbot for answering Tea Cultivation problams\nIt is based on retrival-based NLP using pythons NLTK tool-kit module\nGUI is based on Tkinter\nIt can answer questions regarding paddy Cultivation problams')
+            "PlantMedicBot v1.0", 'PlantMedicBot is a chatbot for answering paddy Cultivation problams\nIt is based on retrival-based NLP using pythons NLTK tool-kit module\nGUI is based on Tkinter\nIt can answer questions regarding paddy Cultivation problams')
 
     def about(self):
         tkinter.messagebox.showinfo(
             "PlantMedicBot Developer", "Dinithi Amanda")
+        
+    # backend function call 
+    def send_message_insert(self, message):
+        user_input = self.entry_field.get()
+        pr1 = "You : " + user_input + "\n"
+        self.text_box.configure(state=NORMAL)
+        self.text_box.insert(END, pr1)
+        self.text_box.configure(state=DISABLED)
+        self.text_box.see(END)
+
+
+        ob = PlantMedicBot(user_input)
+        pr = "PlantMedicBot : " + ob + "\n"
+        self.text_box.configure(state=NORMAL)
+        self.text_box.insert(END, pr)
+        self.text_box.configure(state=DISABLED)
+        self.text_box.see(END)
+        self.last_sent_label(
+            str(time.strftime("Last message send: " + '%B %d, %Y' + ' at ' + '%I:%M %p')))
+        self.entry_field.delete(0, END)
+        time.sleep(0)
+
         
