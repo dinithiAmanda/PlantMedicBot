@@ -146,4 +146,8 @@ class ChatInterface(Frame):
         self.entry_field.delete(0, END)
         time.sleep(0)
 
-        
+        # Saving conversation history to a file
+        with open('Conversation.txt', 'a') as f:
+            f.write("User: " + user_input + "\n")
+            f.write("AgroBot: " + ob + "\n\n")
+            f.close 
