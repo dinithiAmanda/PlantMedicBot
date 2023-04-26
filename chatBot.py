@@ -171,6 +171,35 @@ def response(user_response):
     # print(g)
     return g
 
+#all responses
+def PlantMedicBot(user_response):
+    user_response = user_response.lower()
+    # chat = Chat(all_text, reflections)
+    if (user_response != 'bye'):
+        if (user_response == 'thanks' or user_response == 'thank you'):
+            return "You are welcome.."
+        else:
+            if (greeting(user_response) != None):
+                return greeting(user_response)
+            elif (user_response.find("your name") != -1 or user_response.find(" your name") != -1 or user_response.find("your name ") != -1 or user_response.find(" your name ") != -1):
+                return IntroduceMe(user_response)
+            elif(tfidf_cosim_smalltalk(small_talk_responses, user_response)!=None):
+                return tfidf_cosim_smalltalk(small_talk_responses, user_response)
+            elif (basic1(user_response) != None):
+                return basic1(user_response)
+            elif (basic2(user_response) != None):
+                return basic2(user_response)
+            elif (basic3(user_response) != None):
+                return basic3(user_response)
+            elif (basic4(user_response) != None):
+                return basic4(user_response)
+            else:
+                return response(user_response)
+            
+        
+
+    else:
+        return "Bye! take care.."
 
 
 
