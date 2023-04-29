@@ -1,0 +1,41 @@
+User: hi
+AgroBot: I am glad! You are talking to me
+
+User: Sheath blight is a common fungal disease
+AgroBot: sheath rot paddy disease is a fungal disease that affects rice plants the disease is caused by the fungus sarocladium oryzae, which primarily infects the sheath that surrounds the rice stem the symptoms of sheath rot paddy disease include the appearance of water-soaked lesions on the sheath, which eventually turn dark brown or black and cause the sheath to rot.
+
+User: hi
+PlantMedicBot: I am glad! You are talking to me
+
+User: you name
+PlantMedicBot: I am sorry, I cannot help you with this one. Hope to in the future.
+
+User: name 
+PlantMedicBot: I am sorry, I cannot help you with this one. Hope to in the future.
+
+User: name
+PlantMedicBot: I am sorry, I cannot help you with this one. Hope to in the future.
+
+User: Bacterial blight
+PlantMedicBot: bacterial blight is a serious disease of paddy plants caused by the bacterium xanthomonas oryzae pv oryzae the disease affects the leaves, stems, and grains of the rice plant, resulting in significant yield losses.
+
+User: Bacterial blight
+PlantMedicBot: bacterial blight is a serious disease of paddy plants caused by the bacterium xanthomonas oryzae pv oryzae the disease affects the leaves, stems, and grains of the rice plant, resulting in significant yield losses
+the appearance of bacterial blight on paddy plants can vary depending on the stage of infection initially, the symptoms may appear as small, water-soaked lesions on the leaves that rapidly expand and turn brown, leading to the death of the affected leaves as the disease progresses, the lesions may also appear on the stem and grains, resulting in reduced grain quality and quantity.
+
+User: hello
+PlantMedicBot: hi there
+
+User: can you help me
+PlantMedicBot: Tell me
+
+User: okay
+PlantMedicBot: Is there anything else to know?
+
+User: hi
+PlantMedicBot: hello
+
+User: Bacterial blight
+PlantMedicBot: bacterial blight is a serious disease of paddy plants caused by the bacterium xanthomonas oryzae pv oryzae the disease affects the leaves, stems, and grains of the rice plant, resulting in significant yield losses
+the appearance of bacterial blight on paddy plants can vary depending on the stage of infection initially, the symptoms may appear as small, water-soaked lesions on the leaves that rapidly expand and turn brown, leading to the death of the affected leaves as the disease progresses, the lesions may also appear on the stem and grains, resulting in reduced grain quality and quantity.
+

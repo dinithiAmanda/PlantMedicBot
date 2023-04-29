@@ -18,7 +18,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 # open dataset
-ds = open("dataset.txt", 'r', errors= "ignore")
+ds = open("Dataset.txt", 'r', errors= "ignore")
 
 # normalization
 raw = ds.read() # separated sections file

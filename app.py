@@ -7,11 +7,11 @@ from chatBot import PlantMedicBot
 # ans = ["PlantMedicBot"]
 window_size = "428x520"
 
-# create GUI
+
 class ChatInterface(Frame):
 
-    def _init_(self, master=None):
-        Frame._init_(self, master)
+    def __init__(self, master=None):
+        Frame.__init__(self, master)
         self.master = master
 
         self.tl_bg = "#a6ffaa"
@@ -21,9 +21,9 @@ class ChatInterface(Frame):
 
         menu = Menu(self.master)
         self.master.config(menu=menu, bd=5)
+# Menu bar
 
-# Menu bar
-# File
+    # File
         file = Menu(menu, tearoff=0)
         menu.add_cascade(label="File", menu=file)
         file.add_command(label="Clear Chat", command=self.clear_chat)
@@ -58,7 +58,7 @@ class ChatInterface(Frame):
 
         help_option = Menu(menu, tearoff=0)
         menu.add_cascade(label="Help", menu=help_option)
-        help_option.add_command(label="PlantMedicBot", command=self.msg)
+        help_option.add_command(label="About PlantMedicBot", command=self.msg)
         help_option.add_command(label="Develpoer", command=self.about)
 
         self.text_frame = Frame(self.master, bd=6)
@@ -70,8 +70,8 @@ class ChatInterface(Frame):
 
         # contains messages
         self.text_box = Text(self.text_frame, yscrollcommand=self.text_box_scrollbar.set, state=DISABLED,
-                             bd=1, padx=6, pady=6, spacing3=8, wrap=WORD, bg=None, font="Verdana 10", relief=GROOVE,
-                             width=10, height=1)
+        bd=1, padx=6, pady=6, spacing3=8, wrap=WORD, bg=None, font="Verdana 10", relief=GROOVE,
+        width=10, height=1)
         self.text_box.pack(expand=True, fill=BOTH)
         self.text_box_scrollbar.config(command=self.text_box.yview)
 
@@ -124,8 +124,7 @@ class ChatInterface(Frame):
     def about(self):
         tkinter.messagebox.showinfo(
             "PlantMedicBot Developer", "Dinithi Amanda")
-        
-    # backend function call 
+
     def send_message_insert(self, message):
         user_input = self.entry_field.get()
         pr1 = "You : " + user_input + "\n"
@@ -133,7 +132,6 @@ class ChatInterface(Frame):
         self.text_box.insert(END, pr1)
         self.text_box.configure(state=DISABLED)
         self.text_box.see(END)
-
 
         ob = PlantMedicBot(user_input)
         pr = "PlantMedicBot : " + ob + "\n"
@@ -145,14 +143,13 @@ class ChatInterface(Frame):
             str(time.strftime("Last message send: " + '%B %d, %Y' + ' at ' + '%I:%M %p')))
         self.entry_field.delete(0, END)
         time.sleep(0)
-
+        
         # Saving conversation history to a file
         with open('Conversation.txt', 'a') as f:
             f.write("User: " + user_input + "\n")
-            f.write("AgroBot: " + ob + "\n\n")
-            f.close 
+            f.write("PlantMedicBot: " + ob + "\n\n")
+            f.close   
 
-    # make GUI function 
     def font_change_default(self):
         self.text_box.config(font="Verdana 10")
         self.entry_field.config(font="Verdana 10")
@@ -302,8 +299,9 @@ class ChatInterface(Frame):
         self.font_change_default()
         self.color_theme_default()
 
-# Root function & add image
+
 root = Tk()
+
 
 a = ChatInterface(root)
 root.geometry(window_size)
