@@ -128,3 +128,35 @@ PlantMedicBot: Kernel smut paddy disease, also known as Ustilaginoidea virens, i
 User: favourable condition for Kernel smut paddy disease
 PlantMedicBot: Kernel smut paddy disease, also known as Ustilaginoidea virens, is a fungal disease that affects rice plants The disease primarily affects the kernels of the rice plant, causing them to become infected with black, powdery spores The symptoms of kernel smut paddy disease include the appearance of black spores on the kernels, as well as stunted growth and reduced yield.
 
+User: hi
+PlantMedicBot: hi
+
+User: what is Sheath blight
+PlantMedicBot: Sheath rot paddy disease is a fungal disease that affects rice plants The disease is caused by the fungus Sarocladium oryzae, which primarily infects the sheath that surrounds the rice stem The symptoms of sheath rot paddy disease include the appearance of water-soaked lesions on the sheath, which eventually turn dark brown or black and cause the sheath to rot.
+
+User: what is Bacterial blight 
+PlantMedicBot: how to control use of resistant rice varieties is the most effective way to control the disease Resistant varieties can significantly reduce the incidence and severity of bacterial leaf blight, and planting these varieties is recommended in areas where the disease is prevalent
+Cultural practices such as crop rotation, proper fertilization, and irrigation management can also help reduce the incidence of bacterial leaf blight Good agricultural practices, such as maintaining clean fields and avoiding excessive use of nitrogen fertilizers, can help minimize the disease's impact on rice production
+The application of copper-based bactericides and antibiotics can also be used to control bacterial leaf blight However, the use of these chemicals should be limited, as excessive use can lead to the development of bacterial strains resistant to these chemicals.
+
+User: what is Brown spot paddy disease
+PlantMedicBot: Brown spot paddy disease, also known as Helminthosporium leaf spot, is a fungal disease that affects rice plants The disease is caused by the fungus Helminthosporium oryzae, which is primarily found in soil and plant debris The symptoms of brown spot paddy disease include the appearance of brown spots on the leaves, which eventually spread to the entire leaf and cause premature drying and death of the plant.
+
+User: hi
+PlantMedicBot: hey
+
+User: what is Kernel smut paddy disease,
+PlantMedicBot: Kernel smut paddy disease, also known as Ustilaginoidea virens, is a fungal disease that affects rice plants The disease primarily affects the kernels of the rice plant, causing them to become infected with black, powdery spores The symptoms of kernel smut paddy disease include the appearance of black spores on the kernels, as well as stunted growth and reduced yield.
+
+User: hi
+PlantMedicBot: hello
+
+User: hello
+PlantMedicBot: hello
+
+User: hi
+PlantMedicBot: hi
+
+User: 123
+PlantMedicBot: I am sorry, I cannot help you with this one. Hope to in the future.
+
