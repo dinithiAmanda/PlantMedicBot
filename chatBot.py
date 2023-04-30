@@ -27,9 +27,11 @@ lraw = raw.lower() # convert to lower case
 # print(raw)
 # print(lraw)
 
-tokens = nltk.sent_tokenize(lraw) # convert to list of sentences
+sent_tokens = nltk.sent_tokenize(raw)# converts to list of sentences 
+word_tokens = nltk.word_tokenize(raw)# converts to list of words
 
-# print(tokens)
+print(sent_tokens)
+
 
 # lemmartization
 lemmer = nltk.stem.WordNetLemmatizer()
@@ -86,7 +88,7 @@ def tfidf_cosim_smalltalk(doc, query):
    tf_query = tf.transform(query)
    cosineSimilarities = cosine_similarity(tf_doc,tf_query).flatten()
    related_docs_indices = cosineSimilarities.argsort()[:-2:-1]
-   if (cosineSimilarities[related_docs_indices] > 0.7):
+   if (cosineSimilarities[related_docs_indices] > 0.2):
       ans = [small_talk[i] for i in related_docs_indices[:1]]
       return ans[0]
 
@@ -128,8 +130,8 @@ def basic4(sentence):
         if sentence.lower() == word:
             return random.choice(Basic_Ans_4)
 
+all_text = sent_tokens
 # print(all_text)
-all_text = tokens
 
 # reduce the dimensionality of text data and improve the accuracy 
 def stem_tfidf(doc, query):
@@ -166,7 +168,7 @@ def cos_sim(x, y): #tf_doc, tf_query
 def response(user_response):
     x, y = stem_tfidf(all_text, user_response)
     g = cos_sim(x, y)
-    print('\nPlantMedicBot: '+g)
+    # print('\nPlantMedicBot: '+g)
     # print('PlantMedicBot')
     # print(g)
     return g

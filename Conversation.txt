@@ -39,3 +39,92 @@ User: Bacterial blight
 PlantMedicBot: bacterial blight is a serious disease of paddy plants caused by the bacterium xanthomonas oryzae pv oryzae the disease affects the leaves, stems, and grains of the rice plant, resulting in significant yield losses
 the appearance of bacterial blight on paddy plants can vary depending on the stage of infection initially, the symptoms may appear as small, water-soaked lesions on the leaves that rapidly expand and turn brown, leading to the death of the affected leaves as the disease progresses, the lesions may also appear on the stem and grains, resulting in reduced grain quality and quantity.
 
+User: what is sheath blight
+PlantMedicBot: sheath rot paddy disease is a fungal disease that affects rice plants the disease is caused by the fungus sarocladium oryzae, which primarily infects the sheath that surrounds the rice stem the symptoms of sheath rot paddy disease include the appearance of water-soaked lesions on the sheath, which eventually turn dark brown or black and cause the sheath to rot.
+
+User: appearance of it
+PlantMedicBot: fungal leaf spot is a common disease in rice that can cause severe damage to the crop the disease is caused by different species of fungi that can infect the leaves, stem, and sheaths of rice plants appearance of fungal leaf spot is characterized by the appearance of small, circular to oval-shaped spots on the leaves these spots can be brown, gray, or black and can coalesce, leading to the death of the leaf tissue.
+
+User: what is p
+PlantMedicBot: I am sorry, I cannot help you with this one. Hope to in the future.
+
+User: what is mango
+PlantMedicBot: I am sorry, I cannot help you with this one. Hope to in the future.
+
+User: what is paddy
+PlantMedicBot: I am sorry, I cannot help you with this one. Hope to in the future.
+
+User: favourable of sheath blight
+PlantMedicBot: sheath rot paddy disease is a fungal disease that affects rice plants the disease is caused by the fungus sarocladium oryzae, which primarily infects the sheath that surrounds the rice stem the symptoms of sheath rot paddy disease include the appearance of water-soaked lesions on the sheath, which eventually turn dark brown or black and cause the sheath to rot.
+
+User: favourable condition of sheath blight
+PlantMedicBot: sheath rot paddy disease is a fungal disease that affects rice plants the disease is caused by the fungus sarocladium oryzae, which primarily infects the sheath that surrounds the rice stem the symptoms of sheath rot paddy disease include the appearance of water-soaked lesions on the sheath, which eventually turn dark brown or black and cause the sheath to rot.
+
+User: favourable condition for it
+PlantMedicBot: favourable condition of rymv disease is favored by warm and humid conditions, and it is more prevalent in areas with high rainfall and temperatures the virus can survive in the infected plant debris and soil for several months, making it difficult to control once it becomes established.
+
+User: what is Bacterial blight 
+PlantMedicBot: how to control use of resistant rice varieties is the most effective way to control the disease resistant varieties can significantly reduce the incidence and severity of bacterial leaf blight, and planting these varieties is recommended in areas where the disease is prevalent
+cultural practices such as crop rotation, proper fertilization, and irrigation management can also help reduce the incidence of bacterial leaf blight good agricultural practices, such as maintaining clean fields and avoiding excessive use of nitrogen fertilizers, can help minimize the disease's impact on rice production
+the application of copper-based bactericides and antibiotics can also be used to control bacterial leaf blight however, the use of these chemicals should be limited, as excessive use can lead to the development of bacterial strains resistant to these chemicals.
+
+User: what is Tungro
+PlantMedicBot: tungro is a viral disease that affects rice plants and is caused by the rice tungro virus (rtv) and rice tungro bacilliform virus (rtbv) the disease is characterized by stunted growth, yellowing of leaves, and reduced tillering tungro can cause significant yield losses and is considered a major threat to rice production in southeast asia.
+
+User: favourable condition of tungro
+PlantMedicBot: tungro is a viral disease that affects rice plants and is caused by the rice tungro virus (rtv) and rice tungro bacilliform virus (rtbv) the disease is characterized by stunted growth, yellowing of leaves, and reduced tillering tungro can cause significant yield losses and is considered a major threat to rice production in southeast asia.
+
+User: what is Neck blast paddy disease
+PlantMedicBot: Neck blast paddy disease, also known as Magnaporthe grisea, is a fungal disease that affects rice plants The disease primarily affects the neck of the rice plant, causing it to become infected with gray or brown lesions The symptoms of neck blast paddy disease include the appearance of lesions on the neck of the rice plant, as well as stunted growth and reduced yield.
+
+User: 
+PlantMedicBot: I am sorry, I cannot help you with this one. Hope to in the future.
+
+User: favourable condition for Neck blast paddy disease
+PlantMedicBot: Neck blast paddy disease, also known as Magnaporthe grisea, is a fungal disease that affects rice plants The disease primarily affects the neck of the rice plant, causing it to become infected with gray or brown lesions The symptoms of neck blast paddy disease include the appearance of lesions on the neck of the rice plant, as well as stunted growth and reduced yield.
+
+User: Favorable conditions for the development of neck blast paddy disease 
+PlantMedicBot: Neck blast paddy disease, also known as Magnaporthe grisea, is a fungal disease that affects rice plants The disease primarily affects the neck of the rice plant, causing it to become infected with gray or brown lesions The symptoms of neck blast paddy disease include the appearance of lesions on the neck of the rice plant, as well as stunted growth and reduced yield.
+
+User: Bacterial leaf streak
+PlantMedicBot: Bacterial leaf streak is a bacterial disease that affects rice plants The disease is caused by the Xanthomonas oryzae pv oryzicola bacterium and is characterized by the appearance of yellowish-green streaks on the leaves of the rice plant The disease can cause significant yield losses if not properly managed.
+
+User: Favorable conditions for Bacterial leaf streak
+PlantMedicBot: Bacterial leaf streak is a bacterial disease that affects rice plants The disease is caused by the Xanthomonas oryzae pv oryzicola bacterium and is characterized by the appearance of yellowish-green streaks on the leaves of the rice plant The disease can cause significant yield losses if not properly managed.
+
+User: Favorable conditions for the development of bacterial leaf streak
+PlantMedicBot: Bacterial leaf streak is a bacterial disease that affects rice plants The disease is caused by the Xanthomonas oryzae pv oryzicola bacterium and is characterized by the appearance of yellowish-green streaks on the leaves of the rice plant The disease can cause significant yield losses if not properly managed.
+
+User: Favorable conditions for the development of bacterial leaf streak include high humidity and temperature, heavy rainfall,
+PlantMedicBot: Favorable conditions for the development of bacterial leaf streak include high humidity and temperature, heavy rainfall, and the use of susceptible rice varieties The disease is more common in areas with poorly drained soils and high levels of nitrogen fertilizer The bacterium can also survive on plant debris and can be easily spread through infected seeds, plant materials, or water.
+
+User: what is Brown spot paddy disease
+PlantMedicBot: Brown spot paddy disease, also known as Helminthosporium leaf spot, is a fungal disease that affects rice plants The disease is caused by the fungus Helminthosporium oryzae, which is primarily found in soil and plant debris The symptoms of brown spot paddy disease include the appearance of brown spots on the leaves, which eventually spread to the entire leaf and cause premature drying and death of the plant.
+
+User: what is Brown spot paddy disease
+PlantMedicBot: Brown spot paddy disease, also known as Helminthosporium leaf spot, is a fungal disease that affects rice plants The disease is caused by the fungus Helminthosporium oryzae, which is primarily found in soil and plant debris The symptoms of brown spot paddy disease include the appearance of brown spots on the leaves, which eventually spread to the entire leaf and cause premature drying and death of the plant.
+
+User: what is Brown spot paddy disease
+PlantMedicBot: brown
+
+User: what is Sheath blight
+PlantMedicBot: sheath
+
+User: 
+PlantMedicBot: I am sorry, I cannot help you with this one. Hope to in the future.
+
+User: 
+PlantMedicBot: I am sorry, I cannot help you with this one. Hope to in the future.
+
+User: whata is Sheath blight
+PlantMedicBot: Sheath rot paddy disease is a fungal disease that affects rice plants The disease is caused by the fungus Sarocladium oryzae, which primarily infects the sheath that surrounds the rice stem The symptoms of sheath rot paddy disease include the appearance of water-soaked lesions on the sheath, which eventually turn dark brown or black and cause the sheath to rot.
+
+User: solution to prevent it
+PlantMedicBot: Several management practices can be used to solution for brown rust in rice crops.
+
+User: what is Kernel smut paddy disease
+PlantMedicBot: Kernel smut paddy disease, also known as Ustilaginoidea virens, is a fungal disease that affects rice plants The disease primarily affects the kernels of the rice plant, causing them to become infected with black, powdery spores The symptoms of kernel smut paddy disease include the appearance of black spores on the kernels, as well as stunted growth and reduced yield.
+
+User: favourable condition for Kernel smut paddy disease
+PlantMedicBot: Kernel smut paddy disease, also known as Ustilaginoidea virens, is a fungal disease that affects rice plants The disease primarily affects the kernels of the rice plant, causing them to become infected with black, powdery spores The symptoms of kernel smut paddy disease include the appearance of black spores on the kernels, as well as stunted growth and reduced yield.
+
