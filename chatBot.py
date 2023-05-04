@@ -88,7 +88,7 @@ def tfidf_cosim_smalltalk(doc, query):
    tf_query = tf.transform(query)
    cosineSimilarities = cosine_similarity(tf_doc,tf_query).flatten()
    related_docs_indices = cosineSimilarities.argsort()[:-2:-1]
-   if (cosineSimilarities[related_docs_indices] > 0.2):
+   if (cosineSimilarities[related_docs_indices] > 0.7):
       ans = [small_talk[i] for i in related_docs_indices[:1]]
       return ans[0]
 
