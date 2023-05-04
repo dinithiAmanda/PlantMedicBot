@@ -20,11 +20,6 @@ To run the project run
 ```bash
    python app.py
 ```
-Go to
-
-```bash
-   127.0.0.1:5000/chatbot
-```
 and start chatting
 
 
