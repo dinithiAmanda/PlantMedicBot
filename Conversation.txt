@@ -31,3 +31,6 @@ PlantMedicBot: You are welcome..
 User: bye
 PlantMedicBot: Bye! take care..
 
+User: hi
+PlantMedicBot: hi
+

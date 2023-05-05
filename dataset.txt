@@ -1,249 +1,1143 @@
-Bacterial blight is a serious disease of paddy plants caused by the bacterium Xanthomonas oryzae pv oryzae The disease affects the leaves, stems, and grains of the rice plant, resulting in significant yield losses
-The appearance of bacterial blight on paddy plants can vary depending on the stage of infection Initially, the symptoms may appear as small, water-soaked lesions on the leaves that rapidly expand and turn brown, leading to the death of the affected leaves As the disease progresses, the lesions may also appear on the stem and grains, resulting in reduced grain quality and quantity.
+Paddy, also known as rice, is a crop that requires specific basic conditions for optimal growth and development First and foremost, paddy requires a warm and humid climate, with an ideal temperature range of 20-35°C Additionally, abundant rainfall is necessary, with an annual rainfall of 1000-1500 mm being optimal 
+The soil in which paddy is grown should be fertile, well-drained, and have a pH range of 5 0-7 5 Water is also a crucial requirement for paddy, and standing water is essential during the early stages of growth 
+The water level should be maintained at 2-5 cm during the vegetative stage and 10-15 cm during the reproductive stage Sunlight is another essential requirement for paddy, with the crop requiring at least 6-8 hours of sunlight per day 
+Finally, paddy requires essential nutrients such as nitrogen, phosphorus, and potassium for growth, and the soil should be adequately fertilized with organic and inorganic fertilizers to provide the necessary nutrients for growth
+By ensuring that these basic requirements are met, farmers can maximize the yield and quality of their paddy crop.
 
-The favorable conditions for bacterial blight include warm and humid weather, especially during the rainy season The disease is also more common in areas with poor drainage and high plant density The bacterium can survive on plant debris and in soil for several months, increasing the risk of infection in subsequent crops.
-To control bacterial blight, a combination of cultural, biological, and chemical methods can be used Cultural methods include planting resistant varieties, crop rotation, and proper irrigation and drainage practices Biological control methods, such as the use of antagonistic bacteria or phages, can also be effective in reducing the spread of the disease.
-Chemical control methods, such as the use of bactericides, can be used as a last resort However, the use of antibiotics can lead to the development of resistant strains of the bacterium, making the disease more difficult to control Therefore, it is important to use antibiotics only when necessary and in accordance with local regulations.
+Paddy, also known as rice, is propagated through both sexual and asexual methods The most common method of propagation in paddy is through seeds, which are obtained from mature and healthy plants There are two main types of paddy seeds traditional seeds and hybrid seeds
+Traditional seeds are obtained from open-pollinated plants, while hybrid seeds are obtained from cross-pollinated plants Traditional seeds are cheaper and more readily available than hybrid seeds, but they have lower yields and are less uniform in their characteristics
+Before planting, paddy seeds are usually soaked in water for several hours to promote germination The seeds are then sown in prepared fields or nurseries, depending on the planting method used In traditional planting, the seeds are directly sown in the field, while in modern planting, 
+the seeds are first sown in a nursery and then transplanted to the field
+In the traditional method, the seeds are broadcasted over the field or drilled into rows In modern planting, the seeds are sown in rows in the nursery, and then the seedlings are transplanted to the main field when they are about 20-25 days old.
 
-Sheath blight is a common fungal disease of rice that can cause significant yield losses The disease is caused by the fungus Rhizoctonia solani and is characterized by the presence of white, cottony mycelium that grows on the leaf sheaths, stems, and panicles of the rice plant The infected areas eventually turn brown and die, leading to reduced photosynthesis and yield losses.
-The favorable condition of Sheath blight thrives in warm, moist conditions, making it a major problem in areas with high rainfall and humidity The fungus can also survive in crop debris and soil, making crop rotation and other cultural practices important for disease management Additionally, the disease can spread rapidly through the crop if the plant density is too high, or if the crop is planted too closely.
-To manage sheath blight, cultural practices such as crop rotation, use of resistant varieties, and proper plant spacing should be employed Fungicides can also be used, but they should be used in a targeted manner and only when necessary to reduce the development of fungicide resistance In general, early detection and management of the disease is key to reducing yield losses.
+Another method of propagation in paddy is through vegetative means, such as stem cuttings or tissue culture However, this method is less common and is mainly used for research purposes or in breeding programs
+Overall, propagation of paddy is a crucial step in rice cultivation, and farmers must select healthy seeds and follow proper planting methods to ensure optimal growth and yield of the crop
+General care and maintenance of paddy,Newly planted paddy plantations must be kept free from weeds while the paddy plants establish Weeding should be done by hand until the canopy closes and shades out weeds 
+Tea plants should be pruned to encourage the production of lateral branches Busjes are shaped by tipping and thinning of branches to create the desired shape 
+Pruning should be maintained throughout the life of the plantation to keep the plants a manageable size and maintain productivity
+pruning is best carried out when the plants are dormant where possible If trees do not have a dormant period then they should be pruned in winter or after the dry period depending on geographic location
+The tree clippings can be left in the centers of the rows to acts as an organic mulch Tea plantations are usually fertilized 2–3 times per year
+The amount of each nutrient added to the soil will depend on the soil’s own deficiencies and should ideally be based on the results of soil testing or by testing the leaves for nutrient deficiencies.
 
-Brown spot paddy disease, also known as Helminthosporium leaf spot, is a fungal disease that affects rice plants The disease is caused by the fungus Helminthosporium oryzae, which is primarily found in soil and plant debris The symptoms of brown spot paddy disease include the appearance of brown spots on the leaves, which eventually spread to the entire leaf and cause premature drying and death of the plant.
-Favorable conditions for the development of brown spot paddy disease include high humidity and temperature, prolonged periods of leaf wetness, and poor soil drainage The disease is more common in areas with heavy rainfall and high humidity, as well as in areas with poor soil fertility.
-To prevent brown spot paddy disease, it is important to take preventive measures such as crop rotation, maintaining good soil drainage, and avoiding over-watering Fungicide application is also effective in controlling the disease, particularly when applied during the early stages of infection Proper crop management practices, such as planting resistant varieties and practicing good crop sanitation, can also help prevent the spread of the disease.
+Harvesting paddy, or rice, is a crucial stage in rice cultivation that involves several steps to ensure maximum yield and quality of the crop The first step is determining the ideal time of harvest, 
+which varies depending on the rice variety and climatic conditions Once the time of harvest is determined, the rice plants are cut using either a sickle or a mechanized harvester, leaving the stalks standing in the field
+The cut plants are then bundled and left to dry in the field for several days, a process known as field drying, to reduce the moisture content of the grain
+After field drying, the grains are separated from the stalks using a threshing machine or by beating the plants with a stick This process loosens the grains from the stalks and separates them from the chaff
+Next, the grains are separated from the chaff using a winnowing basket or a machine This process helps to remove any remaining debris and ensures that only the grains are left.
+The harvested paddy is then cleaned to remove any impurities and stored in a dry and ventilated place. Proper storage is crucial to prevent damage and ensure that the grains remain in good condition for future use 
+By following these steps, farmers can maximize the yield and quality of their paddy crop, which is an essential staple food for many people around the world.
 
-Sheath rot paddy disease is a fungal disease that affects rice plants The disease is caused by the fungus Sarocladium oryzae, which primarily infects the sheath that surrounds the rice stem The symptoms of sheath rot paddy disease include the appearance of water-soaked lesions on the sheath, which eventually turn dark brown or black and cause the sheath to rot.
-Favorable conditions for the development of sheath rot paddy disease include high humidity and temperature, prolonged periods of leaf wetness, and poor soil drainage The disease is more common in areas with heavy rainfall and high humidity, as well as in areas with poor soil fertility.
-To prevent sheath rot paddy disease, it is important to take preventive measures such as crop rotation, maintaining good soil drainage, and avoiding over-fertilization Fungicide application is also effective in controlling the disease, particularly when applied during the early stages of infection Proper crop management practices, such as planting resistant varieties and practicing good crop sanitation, can also help prevent the spread of the disease.
 
-Kernel smut paddy disease, also known as Ustilaginoidea virens, is a fungal disease that affects rice plants The disease primarily affects the kernels of the rice plant, causing them to become infected with black, powdery spores The symptoms of kernel smut paddy disease include the appearance of black spores on the kernels, as well as stunted growth and reduced yield.
-Favorable conditions for the development of kernel smut paddy disease include high humidity and temperature, poor soil fertility, and the use of susceptible rice varieties The disease is more common in areas with heavy rainfall and high humidity, particularly during the flowering and grain-filling stages of the rice plant.
-To prevent kernel smut paddy disease, it is important to take preventive measures such as crop rotation, planting resistant varieties, and maintaining good soil fertility Fungicide application is also effective in controlling the disease, particularly when applied during the early stages of infection Proper crop management practices, such as practicing good crop sanitation and avoiding water stress, can also help prevent the spread of the disease.
+Leaf infection
+Until the advent of blister blight in 1946, there was no leaf disease of my economic importance in Sri Lanka This was considered 
+surprising in view of the humid conditions associated with paddy culture, the large volume of leaf of all ages produced by the paddy 
+plant and the dense cover of foliage that is maintained most of the time
 
-False smut paddy disease, also known as Ustilaginoidea oryzae, is a fungal disease that affects rice plants The disease primarily affects the spikelets of the rice plant, causing them to become infected with greenish-gray spores The symptoms of false smut paddy disease include the appearance of spores on the spikelets, as well as reduced yield and quality of the rice grains.
-Favorable conditions for the development of false smut paddy disease include high humidity and temperature, heavy rainfall, and the use of susceptible rice varieties The disease is more common in areas with poorly drained soils and high levels of nitrogen fertilizer.
-To prevent false smut paddy disease, it is important to take preventive measures such as planting resistant varieties, reducing the use of nitrogen fertilizer, and avoiding water stress Fungicide application is also effective in controlling the disease, particularly when applied during the early stages of infection Proper crop management practices, such as practicing good crop sanitation and avoiding water stress, can also help prevent the spread of the disease.
+There are several other leaf diseases caused by weak and occasional parasites, the attacks of wich are normally associated either 
+with prior damage to the leaf surface and exceptional weather conditions or as a consequence to a general debility of the paddy bush.
 
-Neck blast paddy disease, also known as Magnaporthe grisea, is a fungal disease that affects rice plants The disease primarily affects the neck of the rice plant, causing it to become infected with gray or brown lesions The symptoms of neck blast paddy disease include the appearance of lesions on the neck of the rice plant, as well as stunted growth and reduced yield.
-Favorable conditions for the development of neck blast paddy disease include high humidity and temperature, prolonged periods of leaf wetness, and the use of susceptible rice varieties The disease is more common in areas with heavy rainfall and high humidity, particularly during the booting and heading stages of the rice plant.
-To prevent neck blast paddy disease, it is important to take preventive measures such as planting resistant varieties, maintaining good soil fertility, and avoiding over-fertilization Fungicide application is also effective in controlling the disease, particularly when applied during the early stages of infection Proper crop management practices, such as practicing good crop sanitation and avoiding water stress, can also help prevent the spread of the disease.
+Blister Blight(Exobasidium vexans)
+Blister blight leaf disease of paddy is caused by the fungus Exobasidium vexans Massee Most importantly the fungus causing blister blight 
+an infect only young succulent leaves, stems and the pericarp of the fruit when tender (Plates 14.1 to 14.3) As the paddy bush is cultivvated 
+for its tender shoots, and for thet reason alone, blister blight leaf disease is of major economic importance and its control costs 
+the country several millions of rupees per annum
 
-Bacterial leaf streak is a bacterial disease that affects rice plants The disease is caused by the Xanthomonas oryzae pv oryzicola bacterium and is characterized by the appearance of yellowish-green streaks on the leaves of the rice plant The disease can cause significant yield losses if not properly managed.
-Favorable conditions for the development of bacterial leaf streak include high humidity and temperature, heavy rainfall, and the use of susceptible rice varieties The disease is more common in areas with poorly drained soils and high levels of nitrogen fertilizer The bacterium can also survive on plant debris and can be easily spread through infected seeds, plant materials, or water.
-To prevent bacterial leaf streak, it is important to take preventive measures such as planting resistant varieties, reducing the use of nitrogen fertilizer, and avoiding water stress Crop rotation and avoiding the use of contaminated seed are also effective in preventing the spread of the disease If bacterial leaf streak is detected in a crop, it is important to remove and destroy the infected plant material and avoid planting rice in that field for at least two years.
+The fungus causing the disease is an obligate parasite, incapable of getting its nourishment from dead matter, and so far as is known, 
+is able to get it only from the live flush of the paddy bish There are on alternative hosts known for this pathogen
 
-Tungro is a viral disease that affects rice plants and is caused by the Rice tungro virus (RTV) and Rice tungro bacilliform virus (RTBV) The disease is characterized by stunted growth, yellowing of leaves, and reduced tillering Tungro can cause significant yield losses and is considered a major threat to rice production in Southeast Asia.
-Favorable conditions for the development of Tungro include high temperatures, high humidity, and the presence of the insect vector, green leafhoppers (Nephotettix spp) The virus can be transmitted by infected plant materials or by the insect vector, which feeds on the sap of infected plants and transfers the virus to healthy plants.
-To prevent Tungro, it is important to take preventive measures such as planting resistant varieties, practicing good crop management practices, and using insecticides to control the green leafhopper vector The use of certified seeds and clean planting materials is also recommended to avoid the spread of the virus
-Cultural practices such as crop rotation, intercropping, and avoiding water stress can also help prevent the spread of Tungro Additionally, the use of resistant rice varieties can significantly reduce the incidence of the disease
-Chemical control measures, such as the use of insecticides to control the green leafhopper vector, can also be effective in managing Tungro However, excessive use of chemical insecticides can lead to the development of resistance in the insect vector and negatively impact the environment.
+As the tissues (leaf, stem, pericarp) become mature, they develop resistance to infection
+if not for this characteristic, the survival of paddy as an economic crop in many parts of Sri
+Lanka would have met with the same fate that befell the coffee industry in 1869 Coffee
+rust caused by the fungus, Hemelia vastatrix devastated 160,000 ha of plantations in the
+ensuing 20 years.
 
-Foot rot is a fungal disease that affects rice plants and is caused by the pathogen, Fusarium fujikuroi The disease is characterized by the presence of brownish lesions on the lower stems and roots of the rice plant, which can lead to wilting, lodging, and significant yield losses.
-Favorable conditions for the development of Foot rot include poorly drained soils, high soil moisture, and high temperatures The pathogen can also be transmitted through contaminated seeds and plant materials.
-To prevent Foot rot, it is important to take preventive measures such as using disease-free seeds, practicing good crop management practices, and avoiding water stress Crop rotation, avoiding overuse of nitrogen fertilizers, and proper field drainage can also help prevent the development and spread of the disease.
-Chemical control measures are available for Foot rot, including the use of fungicides However, the excessive use of chemical fungicides can lead to the development of resistance in the pathogen and negatively impact the environment Therefore, the use of fungicides should be limited and integrated with other management practices for effective control of the disease.
-Cultural practices such as crop rotation, avoiding water stress, and proper field drainage can also be effective in preventing the development and spread of Foot rot Additionally, the use of resistant rice varieties can significantly reduce the incidence of the disease
+Laef manifestation
+The first visible symptom is a pale yellow or lime green spot, which is more translucent
+than the rest of the leaf spot may sometimes be pink, red or brown dcpendmg on the
+reaction of different paddy cultivars to the infection The spot gradually enlarges in the form
+of a cirele of increasing diameter, reaching a maximum size Of just over 12.5 mm The
+rate of enlargement of the blister depends on environmental conditions as well as on
+internal physiological characteristics of the leaf As the disease progresses inside the
+leaf, the upper surface of the developing blister becomes indented, corresponding with a
+protrusion of the lower surface, which becomes white and powdery as spore production
+begins Though not very common, sometimes these protrusions can curve upward with the
+corresponding indentation on the lower surface But still, the spore production takes
+place on the lower surface of the leaf After sporulation the blister begins to dry up,
+starting at the centre, and the blistered area becomes brown as the leaf tissues die This
+area is soon invaded by various saprophytic fungi, the most common secondary invader
+being the brown blight causing Colletrotnchum camelhae A leaf may have one or more
+centres of infections When several blisters develop on a single leaf, it becomes curled
+and distorted.
 
-The striped stem borer is a pest that affects rice plants and is caused by the moth, Chilo suppressalis The adult moth lays its eggs on the rice stem, and the resulting larvae bore into the stem, causing damage that can lead to significant yield losses.
-The striped stem borer prefers/favorable condition warm, humid climates, and its activity is favored by high temperatures and humidity The pest is more prevalent in areas where rice is grown continuously without proper crop rotation or other control measures.
-To prevent the striped stem borer, it is important to implement preventive measures such as crop rotation and proper field sanitation Planting resistant rice varieties can also help reduce the incidence of the pest Insecticides are also available for control of the pest, but their use should be carefully managed to avoid the development of resistance and negative impacts on non-target organisms.
-Cultural practices such as intercropping with leguminous crops, use of light traps to attract and trap adult moths, and proper field management practices, such as early planting and proper irrigation, can also help prevent the development and spread of the striped stem borer
-Integrated pest management (IPM) is a holistic approach that combines different control methods to manage pest populations IPM strategies for the striped stem borer can include a combination of cultural practices, biological control agents, and judicious use of insecticides.
+Stem indication
+When the fungus infects young stems the infections grow and mature along the longitudinal
+axis of stems, assuming a slender oval shape, later turning into velvety white patches, as
+opposed to the eircular blisters of the leaves The infected stem first bends in the opposite
+direction due to expansion of tissues at the point of infection The infected patches are
+usually thicker than healthy areas This leads to distorted stems thereby resulting in serious
+set backs to growth Very often they break off or result in dieback of shoots beyond this
+point Repeated stem infections can weaken the plants considerably and, if allowed to
+continue without being arrested through proper control measures, the bushes can
+eventually die.
 
-Yellow dwarf is a viral disease that can infect rice plants and cause significant yield losses It is caused by the Rice yellow dwarf virus (RYDV), which is transmitted by the small brown planthopper, Laodelphax striatellus.
-The symptoms/appearance of yellow dwarf in rice plants include stunted growth, yellowing of leaves, and reduced tillering In severe cases, the disease can lead to complete yield loss The disease is favored by warm temperatures and high humidity, and it is more prevalent in areas where rice is grown continuously without proper crop rotation or other control measures.
-Preventing/control the spread of the small brown planthopper, which is the primary vector of the virus, is crucial for controlling yellow dwarf. Cultural practices such as crop rotation, intercropping with non-host crops, and the use of resistant rice varieties can also help reduce the incidence of the disease
-Insecticides can also be used for controlling the small brown planthopper, but their use should be carefully managed to avoid the development of resistance and negative impacts on non-target organisms. Biological control agents, such as parasitoid wasps, can also be used to control the pest
-Integrated pest management (IPM) is a holistic approach that combines different control methods to manage pest populations IPM strategies for yellow dwarf can include a combination of cultural practices, biological control agents, and judicious use of insecticides.
+biological science 
+The disease is spread by windborne basidiospores Under favourable conditions, a spore
+coming into contact with the upper surface of a young leaf or stem, germinates within
+6-10 hours and forms an 'appressorium' (or infecting structure) During this period the
+fungus is very sensitive to desiccation as well as the fungicidal effect of sunshine and
+chemicals In 10-14 hours after the formation of the appressorium, the fungus penetrates
+the leaf surface, and is then protected from external agencies like sunshine and contact
+fungicidal spray deposits on the leaf surface The fungus now begins to utilise the leaf
+tissue for its growth Eight to 10 days aner penetration, the first visible sign of infection
+appears as a translucent spot, which is a result of the disruption of the leaf tissue Fifteen
+to 17 days after penetration (7-9 days after the appearance of the translucent spot), the
+fungus either ruptures the lower epidermis of the leaf or emerges through the stomata
+and begins to produce bzusidiospores A mature sporulating blister, therefore, is produced
+18-21 days after penetration Each of these mature blisters is capable of liberating an
+enormous number of spores into the atmosphere A blister may sporulate for 7-8 days
+before it begins to die This is indicated by the browning of the blister, starting from its
+centre.
 
-Rice root-knot nematode is a parasitic roundworm that infects the roots of rice plants and causes significant yield losses The nematode feeds on the plant's root tissue, causing the roots to become swollen and knotted, leading to reduced nutrient and water uptake.
-The symptoms of rice root-knot nematode include stunted growth, yellowing of leaves, and reduced tillering In severe cases, the disease can lead to complete yield loss The nematode is favorable condition by warm temperatures and moist soil conditions, and it is more prevalent in areas where rice is grown continuously without proper crop rotation or other control measures
-Cultural practices such as crop rotation, the use of resistant rice varieties, and soil management practices can help reduce the incidence of rice root-knot nematode Crop rotation with non-host crops, such as maize or soybean, can reduce the nematode population in the soil. Resistant rice varieties, such as those that express the Meloidogyne resistance gene, can also be used to control the nematode.
-solution for rice root-knot is Soil management practices such as the use of organic amendments, such as compost and manure, can improve soil health and reduce the incidence of the nematode Additionally, the use of nematicides, such as carbofuran and fenamiphos, can be effective in controlling the nematode, but their use should be carefully managed to avoid negative impacts on non-target organisms and the environment
-Integrated pest management (IPM) is a holistic approach that combines different control methods to manage pest populations IPM strategies for rice root-knot nematode can include a combination of cultural practices, the use of resistant rice varieties, soil management practices, and judicious use of nematicides.
+Distribution and Tirne of occurrence of the aliment
+In the western sector of the growing regions, all estates above 600 m (2000 ft) receiving
+the South-West (SW) monsoon rains in May-July and the North-East (NE) rains in
+Swptember-December are subject to this disease during those periods In the eastern sector
+(Uva region), blister blight becomes a problem only during the NE monsoon (September-December)
+This disease can become more prevalent and severe with increasing elevation
+However, this can be encountered at elevations less than 600 m where high humidity and
+heavy shade levels persist, but this very rarely causes economic losses.
 
-Stem rot is a fungal disease that affects rice plants, causing significant yield losses The disease is caused by the fungus Sclerotium oryzae, which infects the stem of the rice plant and causes rotting and wilting of the stem.
+Conditions Favouring the Disease blister blight
+Moisture is the most critical factor in causing infections by this fungus A very high
+relativehumidity (85 per cent) is required for the production, release as well as germination
+of spores Mist, cloud and rain, the incidence of blister blight, while desiccation
+and exposure to direct sunlight, kill both fresh and germinating spores.
 
-The symptoms of stem rot include yellowing and wilting of leaves, and softening of the stem near the base of the plant The infected stem may break easily when bent, and a white fungal growth may be visible on the affected area.
-Stem rot is favorable condition for stem rot by warm and humid conditions, and it is more prevalent in areas where rice is grown continuously without proper crop rotation or other control measures The fungus can survive in the soil for several years, making it difficult to control once it becomes established.
-Cultural practices such as crop rotation, the use of resistant rice varieties, and sanitation can help reduce the incidence of stem rot Crop rotation with non-host crops, such as maize or soybean, can reduce the fungus population in the soil Resistant rice varieties can also be used to control the diseas Planting resistant varieties can significantly reduce the incidence and severity of stem rot.
-Sanitation is an essential part of managing stem rot, and it involves the removal and destruction of infected plant debris and stubble after harvest to prevent the buildup of fungal inoculum in the soil The use of fungicides such as carbendazim or thiophanate-methyl can also be effective in controlling stem rot.
-Integrated pest management (IPM) is a holistic approach that combines different control methods to manage pest populations IPM strategies for stem rot can include a combination of cultural practices, the use of resistant rice varieties, sanitation, and judicious use of fungicides.
+Blister Blight and Shade
+As sunshine is detrimental to the growth of this fungus, it is to assume that
+the removal ofshade trees will help in the control of the disease Conversely, the weather
+most favourable to its growth is characterised by the absence of sunshine and, at such
+times, the intensity of the disease may not be very much influenced by the presence or
+absence of shade However, dense shade should always be avoided particularly in mist
+pockets This should never justify complete removal of shade even in mist pockets, in
+view of the very good reasons they were introduced to the paddy plantations It would be
+desirable to reduce shade as appropriate by thinning/lopping of established shade with
+the onset of monsoon.
 
-Udbatta disease is a fungal disease that affects rice plants, causing significant yield losses The disease is caused by the fungus Rhizoctonia solani, which infects the rice plant roots and causes the characteristic "udbatta" or "black point" symptoms
-The symptoms/apperance of Udbatta disease include the formation of black spots or points on the rice grains and the premature death of rice plants. The disease can also cause the roots of the rice plants to become dark and decayed, leading to poor nutrient uptake and stunted growth.
-Udbatta disease favorable condition by warm and humid conditions, and it is more prevalent in areas where rice is grown continuously without proper crop rotation or other control measures The fungus can survive in the soil for several years, making it difficult to control once it becomes established.
-Cultural practices/ solution for udbatta disease such as crop rotation, the use of resistant rice varieties, and sanitation can help reduce the incidence of Udbatta disease Crop rotation with non-host crops, such as maize or soybean, can reduce the fungus population in the soil Resistant rice varieties can also be used to control the disease Planting resistant varieties can significantly reduce the incidence and severity of Udbatta disease
-Sanitation is an essential part of managing Udbatta disease, and it involves the removal and destruction of infected plant debris and stubble after harvest to prevent the buildup of fungal inoculum in the soil The use of fungicides such as carbendazim or thiophanate-methyl can also be effective in controlling Udbatta disease.
-Integrated pest management (IPM) is a holistic approach that combines different control methods to manage pest populations IPM strategies for Udbatta disease can include a combination of cultural practices, the use of resistant rice varieties, sanitation, and judicious use of fungicides.
+be in Control of Blister Blight
+The most efficient protection against any disease is the strong natural resistance inherent
+or developed by the plant No cultivars have so far been shown to be totally resistant to
+blister blight Only gradations in susceptibility have been found among different cultivars
+of paddy Fortunately, copper fungicides have been found to give adequate protection against
+blister blight in paddy Copper fungicides are protective in action When sprayed, the copper
+deposited on the leafsurface prevents the germination of blister spores, thereby preventing
+any fresh infection By the same token, no copper fungicide will have any effect, if it is
+applied after the fungus has penetrated the leaf Once the fungus is inside the leaf, copper
+on its surface will not prevent the fungus from forming a blister.
 
-Rice yellow mottle virus (RYMV) disease is a major viral disease that affects rice plants, causing significant yield losses in sub-Saharan Africa The virus is transmitted by insect vectors, particularly the white-backed planthopper and brown planthopper, and can infect rice plants at any growth stage.
+advocation for Spraying of Fungicides
+i) Copperfungicides (wettablepowders)containing 50 percent (w/w) metallic copper
+in the oxide, oxychloride or hydroxide form are recommended for the control of
+blister blight
 
-The symptoms/ apperance of RYMV disease include yellow mottling and streaking on the leaves, stunting of the plant, and reduced tillering In severe cases, the infected plants can die prematurely, leading to significant yield losses.
+In whatever form, copper fungicides remain to be the cheapest and most effective
+Since they are only protective in action, regular spraying of Cu is essential for
+effective control If any copper fungicide contains a different strength of metallic
+copper (ie 25 per cent or 35 per cent) appropriate rates of applications should be
+worked out on a proportionate basis
 
-favourable condition of RYMV disease is favored by warm and humid conditions, and it is more prevalent in areas with high rainfall and temperatures The virus can survive in the infected plant debris and soil for several months, making it difficult to control once it becomes established.
-solution for RYMV disease Cultural practices such as crop rotation, the use of resistant rice varieties, and the use of insecticides can help reduce the incidence of RYMV disease Crop rotation with non-host crops, such as maize or soybean, can reduce the virus population in the soil The use of resistant rice varieties can also be effective in controlling the disease Planting resistant varieties can significantly reduce the incidence and severity of RYMV disease
-Insecticides can also be used to control the insect vectors that transmit RYMV disease However, the use of insecticides should be judicious and in compliance with the recommended guidelines to prevent the development of resistance by the insect vectors
-Integrated pest management (IPM) is a holistic approach that combines different control methods to manage pest populations IPM strategies for RYMV disease can include a combination of cultural practices, the use of resistant rice varieties, insecticide application, and sanitation.
+ii) systemic firngieides (Ergosterol Biosynthesis Inhibitors) of organic origin are also
+recommended
 
-Leaf folder disease is a common problem in rice cultivation, caused by the larvae of the leaf folder moth The disease can cause significant yield losses by reducing the photosynthetic activity of the rice plants The larvae of the leaf folder moth feed on the young leaves of the rice plant, causing them to roll up and form a tube-like structure As a result, the photosynthetic area of the leaves is reduced, leading to stunted growth and reduced yield.
-The favorable conditions for the development of leaf folder disease include high temperatures, high humidity, and excessive nitrogen fertilization These conditions promote the growth and reproduction of the leaf folder moth, leading to increased infestations of the rice plants.
-solution for leaf folder disease The use of cultural practices such as crop rotation and proper fertilization can help reduce the incidence of leaf folder disease Crop rotation with non-host crops can reduce the population of the leaf folder moth in the soil, while proper fertilization practices can reduce the attractiveness of the rice plants to the moth.
-The use of resistant rice varieties can also be effective in controlling leaf folder disease Some rice varieties have been developed that are resistant to leaf folder infestations, and planting these varieties can significantly reduce the incidence and severity of the disease
-Insecticides can also be used to control leaf folder infestations However, it is important to use insecticides judiciously and in compliance with the recommended guidelines to prevent the development of insecticide resistance
-Integrated pest management (IPM) is a holistic approach that combines different control methods to manage pest populations IPM strategies for leaf folder disease can include a combination of cultural practices, the use of resistant rice varieties, insecticide application, and sanitation.
+These have been found to have protectant as well as curative properties but they
+are always more costly Once sprayed, they remain active for a relatively longer
+period This factor has made the use of systemic fungicides to be favoured over
+copper fungicides, particularly when labour is scarce and wages are becoming
+increasingly prohibitive.
 
-Bacterial leaf blight is a destructive disease of rice caused by the bacterium Xanthomonas oryzae The disease can cause significant yield losses in rice cultivation by damaging the leaves and reducing photosynthesis The symptoms of bacterial leaf blight include water-soaked lesions on the leaves, which later turn yellow and then brown The lesions can coalesce to form large necrotic patches on the leaves, ultimately leading to plant death.
-The favorable conditions for bacterial leaf blight include high humidity, high temperature, and the presence of wounds on the leaves The bacteria can enter the plant through natural openings or wounds caused by insects or mechanical damage.
-how to control use of resistant rice varieties is the most effective way to control the disease Resistant varieties can significantly reduce the incidence and severity of bacterial leaf blight, and planting these varieties is recommended in areas where the disease is prevalent
-Cultural practices such as crop rotation, proper fertilization, and irrigation management can also help reduce the incidence of bacterial leaf blight Good agricultural practices, such as maintaining clean fields and avoiding excessive use of nitrogen fertilizers, can help minimize the disease's impact on rice production
-The application of copper-based bactericides and antibiotics can also be used to control bacterial leaf blight However, the use of these chemicals should be limited, as excessive use can lead to the development of bacterial strains resistant to these chemicals.
+(a) Nurseries - Spray copper fungicides every four days @ 90-120 g or systemic
+fungicides every 10 days 25 ml in 45 L of water for approximately 30,000 plants
+2 area) using a knapsack sprayer.
 
-Neck rot is a common fungal disease of rice caused by the pathogen Pyricularia grisea The disease affects the upper part of the rice plant, including the stem and panicle The symptoms of neck rot include the appearance of black, sunken lesions on the stem and the panicle, which can eventually lead to the death of the plant.
-The favorable conditions for the development of neck rot include high humidity, high temperatures, and prolonged periods of rainfall. The fungus can spread rapidly through the field, especially during the flowering and grain filling stages of the rice plant.
-There are several strategies that can be used to manage neck rot in rice cultivation/ how ro control Neck rot Crop rotation can help reduce the incidence of the disease by disrupting the disease cycle and preventing the buildup of the pathogen in the soil Proper irrigation management can also help reduce the incidence of neck rot by preventing prolonged periods of waterlogging in the field
-The use of resistant rice varieties is the most effective way to control neck rot Resistant varieties can significantly reduce the incidence and severity of the disease, and planting these varieties is recommended in areas where the disease is prevalent
-Fungicides can also be used to control neck rot, but their effectiveness can vary depending on the timing of application and the severity of the disease Fungicides should be used judiciously and in combination with other disease management practices for optimal results.
+(b) Paddy Recovering From Pruning - spray copper fungicides once every 4 or 5 days@
+370-490 g or systemic fungicides once every 10 days @ 85 ml in 170 L of water per
+hectare, using knapsack sprayers or in 30-45 L per hectare, using mist-blowers, up to the
+of tipping However, it is preferable to use knapsack sprayers The most critical
+time for a paddy bush, as far as blister blight is concerned, is when it is recovering from
+which normally coincides with the monsoons During this time all the leaves are
+voung and a few or none are mature Loss of any young leaves or stems is vital at this
+stage and they can be replaced only at further expense of food reserves Therefore, if the
+bush is not protected against blister blight, at this stage, repeated withdrawal of food
+reserves for shoot growth could exhaust the paddy bush sometimes even up to the point of
+death.
 
-Rice tungro bacilliform virus (RTBV) is a plant virus that can cause significant damage to rice crops. The virus is transmitted by the green leafhopper and has been reported in several rice-growing regions, including Southeast Asia, India, and Africa.
-Appearance of The of Rice tungro infection in rice plants include stunted growth, yellowing of leaves, and brownish-red discoloration on the leaves Infected plants may also produce fewer tillers and smaller panicles, resulting in reduced yields.
-Favorable conditions of Rice tungro The green leafhopper, which transmits RTBV, prefers warm and humid conditions Thus, areas with high rainfall and warm temperatures are more susceptible to RTBV outbreaks Additionally, planting infected seedlings or using contaminated equipment can lead to the spread of the virus.
-Solution for the spread of Rice tungro, The first step is to ensure that seedlings are free from the virus before planting This can be achieved by using certified seed or by subjecting seedlings to a hot-water treatment Additionally, insecticides can be used to control the green leafhopper population, thus reducing the spread of the virus
-Cultural practices, such as crop rotation and the use of resistant rice varieties, can also help control the spread of RTBV. Farmers should avoid planting rice crops in consecutive seasons and instead rotate with non-host crops such as legumes. The use of resistant rice varieties is also an effective method to control RTBV. Several rice varieties with varying degrees of resistance to RTBV have been developed.
+(c) paddy in Plucking - Spray copper fungicides once every 7-10 days @ 220-420 g or
+systemic fungicides once every 10-14 days @ 85 ml, depending on the plucking round,
+in 170 L of water per hectare, using knapsack sprayers or in 30-45 L per hectare using
+mist-blowers Spraying should be done on the day following plucking, always maintaining
+a minimum Pre Harvest Interval (PHI) of seven days in order to remain within Maximum
+Residue Limits (MRL) set by paddy importing/consuming countries.
 
-Grain discoloration bacilliform virus (GDBV) is a rice disease caused by a viral infection The disease can cause significant yield loss if not managed properly The virus is transmitted by the small brown planthopper (SBPH), which injects the virus into the rice plants while feeding on their sap.
-appearance of Grain discoloration bacilliform virus infection in rice plants include the discoloration of grains, which turn brown or black, and a reduction in grain size and quality The leaves of infected plants may also turn yellow and die prematurely.
-Favorable conditions for the development of GDBV include warm and humid weather, which is ideal for the growth and reproduction of the SBPH vector Rice plants that are grown in low-lying areas or fields that are prone to flooding are also more susceptible to GDBV infection.
-Effective management strategies for GDBV include the use of resistant rice varieties, which have been developed through selective breeding programs. The use of resistant varieties can significantly reduce the incidence of GDBV infection in rice crops.
-Cultural practices such as the use of clean planting materials, the removal of infected plants and weeds, and the maintenance of proper drainage in rice fields can also help to reduce the spread of GDBV. Insecticide applications can also be used to control the SBPH vector, but care must be taken to avoid the development of insecticide resistance.
+Spraying Against Blister Blight in Relation to Weather Condition
+The fungicidal properties of sunshine alone can be exploited to control blister blight
+effectively Four hours of sunshine a day is adequate to prevent growth and the subsequent
+infection by the spore deposits, of the previous day This can be exploited successfully to
+maintain blister blight infections at economie threshold levels Twenty hours ofeumulative
+sunshine over the preceding five days could help postponing of a spraying round against
+blister blight in its control programme This method of monitoring the sunshine hours
+and relating it to spraying schedules, can be used to effect savings up to 25 per cent on
+spraying of the fungicides and therefore in the cost of control The benefits accruing
+from such a system could be particularly more at the beginning as well at the end of the
+monsoons.
 
-False smut, also known as covered kernel smut, is a fungal disease that affects rice plants. It is caused by the fungus Ustilaginoidea virens and is a major threat to rice production worldwide. The disease is characterized by the formation of smut balls inside the rice spikelets, which replace the grains and are covered by a greenish-brown membrane The smut balls can vary in size from a few millimeters to over a centimeter, and their number can range from a few to nearly all the grains in a panicle.
-The favorable conditions for the development of false smut include high humidity, warm temperatures (25-30°C), and excessive use of nitrogen fertilizers. The fungus can also survive in the soil and in infected crop debris, which can serve as a source of infection for subsequent crops. False smut is more prevalent in areas with high rainfall and in fields with poor drainage.
-To control false smut, a combination of cultural, chemical, and biological measures can be used Cultural control measures include the use of disease-free seed, crop rotation with non-rice crops, avoiding excessive nitrogen fertilization, and improving drainage in fields Chemical control measures involve the use of fungicides, such as triazole and strobilurin, applied either as a seed treatment or as a foliar spra Biological control measures include the use of biocontrol agents, such as Trichoderma spp and Bacillus spp., which can inhibit the growth of the fungus and reduce the incidence of false smut.
 
-Transplanting shock is a common problem faced by farmers during the transplanting of seedlings from the nursery to the main field This condition occurs when the seedlings are not able to adjust to the new environment, leading to stunted growth or even death of the plants.
-The appearance of transplanting shock is characterized by wilting of the leaves, slowed or stunted growth, yellowing or browning of the leaves, and overall poor health of the seedlings The problem usually occurs within a few days after transplanting, and if not addressed quickly, it can lead to significant losses for the farmer.
-Favorable conditions for transplanting shock include sudden changes in temperature, soil moisture, and soil structure, which the seedlings may not be able to handle Overwatering or underwatering the seedlings, poor soil quality, and damage to the roots during transplanting are also contributing factors.
-To prevent or mitigate transplanting shock, farmers can take several measures Before transplanting, seedlings should be well-nurtured and strong, with healthy roots and leaves The seedlings should also be transplanted during the appropriate time of the day or season, such as early in the morning or late in the afternoon, to minimize exposure to the sun and reduce water loss through transpiration Proper soil preparation and watering techniques are also crucial to prevent waterlogging or drought stress.
-In addition to these measures, farmers can use plant growth regulators and biostimulants to boost the growth and survival of the transplanted seedlings. These products contain natural or synthetic compounds that help the plants cope with stress, stimulate root growth, and enhance nutrient uptake, leading to improved plant growth and health.
+Brown blight leaf disease of paddy was first recorded in Sri Lanka in 1899 (Gadd, 1948)
+There had been a few reports of considerable damage caused by brown blight in the past,
+Particularly in bushes recovering from pruning Wet weather normally favours brown
+blight diseiuse The causal organism, Colletrotrichum camelliae Massee, is a weak parasite
+and readily enters injured cells causing rapid death of tissues and thereafter lives on dead
+material The disease is more common on older and mature leaves
 
-Rat damage is a common problem that affects rice crops worldwide Rats consume rice grains and can cause significant yield losses The appearance of rat damage includes chewed stems, roots, and leaves The presence of rat droppings, footprints, and burrows around the field can also be an indication of rat damage.
-Rats thrive in areas with abundant food and water sources Favorable conditions for rat infestation include standing water in rice paddies, abundant weeds, and waste materials near the field, and lack of proper sanitation measures Rats can also migrate from neighboring fields or areas with high rat populations.
-There are several methods to control rat damage in rice crops One of the most effective strategies is the use of rat traps and baits.Traps can be placed along the perimeter of the field, near the burrows, and in areas where rats are likely to pass Baits, such as rodenticides, can also be used to control rat populations However, it is important to use these chemicals with caution and to follow safety guidelines to avoid harming other wildlife and humans.
-Cultural practices can also help reduce the risk of rat damage Regular weeding and cleaning of the field can eliminate hiding places and food sources for rats Proper storage of harvested rice grains can also prevent rats from consuming the grains Harvested rice should be stored in sealed containers or elevated platforms to prevent rats from accessing the grains.
+C) camelliae easily invades areas affected by blister blight at all stages of disease
+development premature browning followed by blackening of blisters is caused by C
+camelliae a result of secondary invasion. This secondary infection by brown blight
+could sometimes influcnee more rapid and extensivel damage on the leaf lamina of certain
+cultivars than when the infection is due to blister blight alone.
 
-Arsenic toxicity is a significant problem in rice cultivation, particularly in some areas of Asia where rice is a staple food Arsenic is a naturally occurring metalloid found in the soil, and high levels of arsenic in the soil can lead to arsenic toxicity in rice plants This can have serious health implications for humans who consume contaminated rice.
-The appearance of arsenic toxicity in rice plants is often characterized by stunted growth, yellowing of leaves, and brown spots on the leaves The roots of the plant may also become discolored and stop growing, and the overall yield of the crop can be significantly reduced In severe cases, the plant may die.
-Favorable conditions for arsenic toxicity in rice include high levels of arsenic in the soil, low pH, waterlogged soil, and the use of contaminated irrigation water or fertilizers The problem is particularly acute in areas with a history of mining, as mining activities can release arsenic into the soil.
-There are several solutions for mitigate arsenic toxicity in rice cultivation One approach is to reduce the amount of arsenic in the soil by using phytoremediation techniques, such as growing plants that absorb and accumulate arsenic from the soil Another approach is to use arsenic-resistant rice varieties that can tolerate higher levels of arsenic in the soil without being affected Additionally, the use of clean irrigation water and fertilizers, as well as proper drainage of the fields, can help reduce the risk of arsenic toxicity.
+brown blight advocate
+The patches usually start at the margin of the leaves and spread inwards the edges of the 
+patches are sharply defined the colour of the upper surface is yellowish to chocolate
+brown at first, gradually changing to grey-black from the center outwards these patches
+are more often marked with characteristically delicate conentric zonations Minute, black,
+scattered dots the fructifitions, appear on both sides of the diseased patch.
 
-Black sooty mold is a fungal disease that affects rice plants It is caused by the growth of saprophytic fungi on the honeydew excreted by sucking insects such as aphids, whiteflies, and leafhoppers The disease is characterized by the appearance of a black, powdery fungal growth on the surface of leaves, stems, and panicles.
-The favorable conditions for the development of black sooty mold include high humidity, warm temperatures, and the presence of honeydew-producing insects The fungus thrives in humid conditions, where it can easily grow and spread Honeydew excreted by insects serves as a source of food for the fungus, enabling it to grow and multiply rapidly.
-The disease can cause a significant reduction in photosynthesis, leading to stunted plant growth and reduced yield It can also cause the rice grains to become discolored, affecting the marketability of the crop.
-To prevent  control black sooty mold, farmers need to implement integrated pest management (IPM) strategies that include cultural, biological, and chemical methods Cultural methods involve the use of good agricultural practices such as proper irrigation and drainage, crop rotation, and the use of resistant varieties
-Biological control measures include the use of natural enemies such as ladybugs, lacewings, and parasitic wasps to control the populations of honeydew-producing insects Chemical control measures involve the use of insecticides to control the populations of honeydew-producing insects and fungicides to control the growth of the fungus.
+dominance
+Since the disease is of occasional importance, no special control measures are
+recommended The fungicides that are used in the control of blister blight, particularly
+the copper fungicides, provide adequate control in the event of any disease outbreaks.
 
-Black spot, also known as Helminthosporium leaf spot, is a common fungal disease that affects rice plants The disease is caused by the fungus Bipolaris oryzae and can cause significant damage to rice crops if left untreated Black spot affects the leaves of rice plants, apperance of Black spot causing small, dark brown or black spots to appear These spots can coalesce and form large irregularly shaped lesions that can cause leaf death and ultimately lead to yield loss.
-favourable condition for Black spot The fungus that causes black spot thrives in warm, humid conditions, making it most prevalent in the rainy season The disease can spread rapidly under favorable conditions, with the fungus being able to survive in the soil and plant debris for up to six months after the initial infection Poor soil fertility and excessive nitrogen application can also contribute to the development of black spot, as the fungus can feed on the excess nitrogen and rapidly grow and spread.
-Preventative measures for solution for black spot include good agricultural practices such as crop rotation, proper soil fertility management, and maintaining appropriate plant spacing to promote good air circulation Foliar fungicides can also be used to control the disease if necessary, but should be applied in a timely manner to prevent the fungus from spreading.
-To minimize the spread of black spot, farmers should also practice good sanitation by removing and destroying infected plant debris and avoiding movement of contaminated soil or equipment Additionally, using resistant rice varieties and planting them during the dry season when environmental conditions are less favorable for the fungus can also help reduce the risk of black spot.
+GREY BLIGHT (Pestalotia theae)
+The fungus, Pestalotia theae Sawada, which causes grey blight, behaves in the same
+way as C camelliae, which causes brown blight Both affect old, injured or sun-scorched
+leaves and normally gain entry through a wound or into tissues that are weakened by
+some means It is not a major problem under Sri Lankan conditions, but causes heavy
+damage to paddy in Japan.
 
-Brown rust is a fungal disease that can significantly impact rice yields if not adequately controlled The disease is caused by the fungus Puccinia melanocephala and is characterized by the appearance of Brown rust small, circular to oval-shaped rust-colored lesions on the leaves, stems, and panicles of the rice plant. These lesions are typically surrounded by a yellow halo and may merge to form larger patches.
-The favorable conditions for brown rust development include high humidity and cool temperatures, with an optimal temperature range of 20-25°C The disease is most prevalent during the early and late stages of the rice crop season The fungus overwinters in infected plant debris and can survive for extended periods in soil, making crop rotation a vital strategy for disease management.
-Several management practices can be used to solution for brown rust in rice crops. The first step is to select resistant rice cultivars. This strategy can be effective, but new races of the fungus can quickly overcome the resistance In addition, the use of fungicides can be effective in controlling the disease However, over-reliance on fungicides can lead to the development of resistant strains of the fungus, making this approach unsustainable in the long run
-To reduce the impact of brown rust, an integrated approach is recommended This approach involves the use of multiple control methods, including resistant cultivars, cultural practices such as crop rotation, and chemical control using fungicides only as necessary It is also essential to remove and destroy infected plant debris to reduce the buildup of the fungus in the field.
+evidence for grey blight
+Diseased patches are light to dark brown with a greyish centre on the upper surface
+Roughly circular to oval shaped patches are marked with eoneentrie zonations On mature
+patches, black pustules (fruiting bodies) can be seen aligned with the eoneentrie lines on
+the upper leaf surface.
 
-Collar rot is a fungal disease caused by various species of fungi that affect the collar region of the rice plant It can lead to significant losses in rice production if not managed properly The fungus attacks the plant roots and stem, leading to rotting of the affected tissues. The appearance of collar rot include wilting, yellowing of leaves, stunting, and rotting of the stem base Infected plants may also produce fewer tillers and smaller panicles, leading to a reduced yield.
-Favorable conditions for collar rot include waterlogging, poor soil drainage, and high soil moisture content, which create anaerobic conditions that promote fungal growth In addition, planting infected seedlings or using infected irrigation water can also lead to the spread of collar rot.
-To solution collar rot, it is important to use healthy seedlings and avoid planting in areas with a history of the disease Crop rotation, where rice is not planted in the same field for two consecutive seasons, is also recommended to reduce the build-up of the fungus in the soil Proper drainage and irrigation management are also essential to avoid waterlogging, which can promote fungal growth
-Fungicides can also be used to control collar rot, although their effectiveness depends on the severity of the infection and the specific fungus causing the disease In addition, biological control methods, such as the use of beneficial microorganisms, can also be effective in reducing the severity of collar rot.
+Cercosporella LEAF DISEASE (Calonectria theae Loos)
+This minor leaf disease of tepaddy was first observed by Peteh in 1909 who, at that time,
+described the causal fungus as Cercospowlla theae Peteh and the disease is commonly
+identified by that name yet The fungus also attacks Acacia decurrens and Dadaps that
+are grown as shade trees in paddy The former is considered to be the main source of infection
+of paddy foliage, through its infected leaves that fall on the paddy bushes that grow underneath.
 
-Crown rot is a fungal disease that affects rice plants, causing a progressive decay of the roots and stem base This disease can be caused by several types of fungi, including Fusarium spp, Rhizoctonia solani, and Sclerotium oryzae The appearance of crown rot is characterized by yellowing and wilting of the leaves, which is often followed by the collapse of the entire plant The disease is commonly observed during the early to mid-tillering stage of rice plants.
-The favorable conditions for crown rot include warm and humid weather conditions, high soil moisture, and poor soil drainage.The fungi causing the disease can survive in soil for several years, which increases the risk of disease outbreaks in fields with a history of crown rot.
-The solution of crown rot can involve several practices, including cultural, chemical, and biological methods. Crop rotation, avoiding waterlogging, and improving soil drainage can help reduce the risk of disease development. Fungicides can be used to control the disease, but their effectiveness can vary depending on the severity of the infection Biological control agents, such as Trichoderma spp, can also be used to suppress the growth of the fungi causing crown rot.
+testimony for Cercosporella
+The attack starts off as a number of small spots about a millimeter wide Spots are grey
+with a blackish margin Occasionally, the spread of the fungus is much more
+diffused and spots may cover a large part of the leaf This second form is more severe
+and can be associated with defoliation.
 
-Dirty panicle is a serious disease of rice that can result in substantial yield losses It is caused by several factors, including insect infestations, nutrient deficiencies, and environmental stresses The disease is characterized by the accumulation of a appearance of Dirty panicle is blackish-brown powder on the rice panicle, which contains numerous fungal spores.
-Favorable conditions for the development of dirty panicle include high humidity, wet conditions, and insect infestations The disease is particularly prevalent in areas with poor drainage, as excess moisture can lead to the growth and spread of the disease Insect infestations can also contribute to the development of dirty panicle, as they can damage the rice plant and create openings for fungal infection.
-The best way to control/solution dirty panicle is through cultural practices, such as maintaining proper drainage and sanitation Farmers can also prevent the spread of the disease by removing infected plant material and properly disposing of it In addition, insecticide treatments can be effective in controlling the insect vectors that contribute to the development of dirty panicle.
-Nutrient management is also critical for preventing the development of dirty panicle Proper fertilization can help to maintain plant health and resistance to disease In particular, the application of potassium has been shown to be effective in reducing the severity of dirty panicle.
+manage Cercosporella
+Special control measures are not recommended for leaf diseases of minor economie
+Importance such as Brown Blight, Gray Blight and Cereosporella Leaf Disease With
+regular sprayings being done for blister blight, these three diseases do not pose problems
+any more Occasional outbreaks in heavy mist pockets can be brought under eontrol with
+the usual copper fungicidal sprays.
 
-False smut is a fungal disease caused by the pathogen Ustilaginoidea virens that affects rice plants during their reproductive stage The fungus infects the florets of the rice spikelet, causing them to swell and merge to form a mass of spore-bearing structures that resemble grains of rice, giving the disease its characteristic name of "false smut" The disease is found worldwide and can cause significant yield losses in rice cultivation.
-The favorable conditions for the occurrence of false smut include high temperatures, high humidity, heavy rainfall, and continuous flooding The pathogen can survive in the soil, plant debris, and infected seeds for a long time It can also be transmitted by insects, such as rice stem borers, or through contaminated irrigation water Stressful environmental conditions, such as drought or nutrient deficiency, can also increase the susceptibility of rice plants to false smut.
-The symptoms/appearance of false smut first appear during the flowering stage of the rice plant, with infected florets turning greenish-yellow or white and enlarging to form spore masses The diseased panicles become distorted and lose their fertility, resulting in poor grain quality and reduced yield The spore masses eventually rupture, releasing millions of spores that can be carried by wind or insects to infect healthy plants.
-There are several management strategies that can be employed to control/solution for false smut in rice These include cultural practices such as crop rotation, the use of disease-free seeds, and proper irrigation and fertilization practices to reduce plant stress Chemical control methods, such as fungicides, can also be used, although their efficacy can be limited due to the systemic nature of the pathogen Genetic resistance is a promising approach to manage the disease, and several resistant rice varieties have been developed through conventional breeding and genetic engineering Early detection and timely intervention are critical for effective disease management.
+Black Blight (Rhizoctonia solani)
+Black blight disease was first reported from Kalutara district by Gadd in 1929 The disease
+is caused by the fungus Rhizoctonia solani Kuhn the fungus is soil borne and attacks
+plants in the nursery when they are heavily shaded It also infacts young plants in new
+clearing under exceptionally high and continuous rainfall conditions, unsually in the 
+moths of may to july and october to december climatic conditions conducive to attack
+are considered to be at least 500 mm of rainfall and less than 150 sunshine hours per
+(Mulder et al, 1962) The is confined to warmer humid parts of the Low
+country districts.
 
-Fungal leaf spot is a common disease in rice that can cause severe damage to the crop The disease is caused by different species of fungi that can infect the leaves, stem, and sheaths of rice plants appearance of Fungal leaf spot is characterized by the appearance of small, circular to oval-shaped spots on the leaves These spots can be brown, gray, or black and can coalesce, leading to the death of the leaf tissue.
-Favorable conditions for the development of fungal leaf spot include high humidity, moderate temperatures, and extended periods of leaf wetness The disease is more severe in areas with heavy rainfall, and it can spread rapidly during periods of warm, wet weather The disease can also be spread through contaminated seed or by wind, rain, or insects.
-There are several methods for controlling/solution fungal leaf spot in rice Cultural practices such as crop rotation, proper drainage, and planting disease-resistant varieties can help reduce the incidence of the disease Farmers can also use fungicides to control the disease, although this can be expensive and may have negative environmental consequences
-Planting resistant varieties is the most effective and environmentally friendly method of controlling fungal leaf spot Plant breeders have developed several rice varieties that are resistant to the disease, and farmers are encouraged to plant these varieties whenever possible Another effective method is to practice good crop management, such as removing infected plant material, controlling weeds, and improving soil fertility. Good management practices can help reduce the severity of the disease and minimize yield losses.
+clu for Black Blight
+The disese appears as irregular black spots on the leaves, especially on those near the
+soil Infection starts from the soil, with the fungus mycelium growing up on
+the stem till it reaches the base of the leaf and progresses along the midrib until a greater
+part of the leaf becomes necrotic The leaf then dies completely, and becomes detached
+from the stem Many dead leaves often remain suspended by means of the cobweb-like
+mycelium of the fungus that spreads along the stem Continuous rainfall conditions may
+result in stem infections, which could lead to die back or death of young VP plants.
 
-Fusarium wilt is a serious fungal disease that affects a wide range of crops, including rice It is caused by the fungus Fusarium oxysporum and is often associated with soil-borne pathogens This disease can have a severe impact on crop production, leading to yield losses of up to 100% in some cases.
-The appearance of Fusarium wilt in rice can vary, but typically it first appears as a yellowing and wilting of leaves As the disease progresses, the leaves will turn brown and eventually die off The stem and roots of the plant may also become discolored and develop dark streaks In severe cases, the entire plant may die.
-Favorable conditions for the development of Fusarium wilt include warm temperatures (around 25-30°C), high soil moisture, and poor soil drainage The fungus can survive in the soil for many years, making crop rotation an important part of management strategies.
-There are several approaches to managing solution for Fusarium wilt in rice One of the most effective is the use of resistant varieties, which have been bred to withstand infection by the fungus Crop rotation, proper irrigation management, and soil amendments can also be effective in reducing the incidence of Fusarium wilt.
+supervice for Black Blight
+Shade should be thinned out in heavily shaded nurseries during exceptionally high and
+continuous rainfall With the first appearance of widespread leaf spotting, a drenching
+spray with a 50 per cent (w/w) copper fungicide at a dilution of 25 g in 10 L of water
+using a knapsack sprayer should be given If the rain continues, the treatment should be
+repeated after a fortnight
 
-Grain discoloration is a common disease in rice plants caused by several factors It is characterized by appearance of Grain discoloration discolored grains and is also known as kernel discoloration The disease is caused by fungal pathogens, including Fusarium species, Helminthosporium oryzae, and Drechslera spp Insects, particularly the brown plant hopper, may also transmit the disease.
-Favorable conditions for grain discoloration include prolonged exposure to high humidity and wet weather conditions, particularly during the grain-filling stage The disease may also occur due to damage caused by insects such as the brown plant hopper High levels of nitrogen fertilization and a low level of potassium fertilization may also increase the incidence of grain discoloration.
-The most effective solution for grain discoloration is to plant resistant varieties Resistance breeding can be an effective method to control the disease Additionally, the use of good agricultural practices, such as crop rotation, proper drainage, and weed control, can help prevent the disease's spread Farmers can also use chemical control measures, such as fungicides, to manage the disease However, the use of fungicides must be done with caution to prevent the development of resistant strains of the pathogen.
+In new clearings, spraying must be done when stem infection is noticed The above
+dilution of copper spray is adequate, but to achieve a drenching spray of the plants and
+the soil immediately underneath, approximately 450 L of water would be required for a
+hectare.
 
-Green leafhoppers (Nephotettix spp and Cicadulina spp) are a significant pest of rice plants These insects are a type of sap-sucking pest that feed on the plant's phloem sap Green leafhoppers are known to transmit viruses such as tungro virus, grassy stunt virus, and ragged stunt virus, which can cause significant damage to the rice crop.
-The favorable conditions for the green leafhopper include warm and humid weather conditions, high rainfall, and the presence of alternate hosts Green leafhoppers are known to prefer plants that are high in nitrogen, which is often seen in rice plants that are heavily fertilized Overcrowding of rice plants can also lead to an increase in green leafhopper populations.
-To control/solution for green leafhopper damage, several measures can be taken Cultural practices such as crop rotation, planting resistant varieties, and maintaining proper plant density can help to reduce the pest's population The use of insecticides is also a common control method, but it should be used judiciously as it can lead to the development of resistance in the pest population Biological control using natural predators such as spiders and predatory insects like dragonflies and ladybirds can also help to control green leafhopper populations.
+STEM DISEASES
+The woody stem Of the plant is protected by living cells of the bark, which offer
+considerable resistance to invasion by microorganisms mainly the fungi, living in their
+environments but the process of regular prining undertaken at 3to 5 year intervals in
+paddy cultivation, exposes the woody tissues, which are easily accessed by both parasitic as
+well as saprophytic fungi, following pruning In a well-developed branch, the part which
+is alive and active is the outer layer, whereas the central part of the branch is composed
+of defunct tissues which do not perform any physiological function This serves as a
+ready source of food for all wood rotting fungi At the same time, there are some parasitic
+fungi, which can invade live tissues, and are capable of producing cankers These cankers
+the inner wood tissues, which become prone to secondary invasion by wood
+expose fungi Wood rot caused by the former process is more common and is extensive
+than the latter.
 
-Hopper burn, also known as brown planthopper (BPH) damage, is a common and devastating disease of rice that can lead to significant yield losses The disease is caused by the sap-sucking brown planthopper (BPH) insect (Nilaparvata lugens), which feeds on the phloem sap of the rice plant, appearance of hopper burn causing stunted growth, wilting, yellowing of leaves, and eventually death of the plant BPH infestations often occur during the reproductive stage of the rice plant, leading to reduced grain weight and quality.
-Favorable conditions for the appearance of hopper burn include high humidity, moderate temperatures, and the presence of the BPH insect These conditions are more common in tropical and subtropical regions, where rice cultivation is prevalent.
-To prevent/solution for hopper burn, cultural and chemical control measures can be employed Cultural control measures involve planting resistant rice varieties, proper field management, and timely application of fertilizers Chemical control measures involve the use of insecticides to control BPH populations However, the use of insecticides can lead to the development of insecticide resistance in BPH populations, which can exacerbate the problem
-Integrated pest management (IPM) is a holistic approach that combines cultural, chemical, and biological control measures to prevent hopper burn IPM strategies may include the use of resistant rice varieties, biological control measures (such as the use of natural predators and parasites), and the judicious use of insecticides Additionally, early detection and monitoring of BPH populations are essential for effective management of hopper burn.
+GESERAL WOOD ROT (Schizophyllum commune)
+wood rot is by far the most serious stem condition that is present in paddy in Sri Lanka
+today Almost all the seedling paddys are associated with a considerable amount of wood rot
+and the annual death toll among them due to wood rot is significant A good per cent of
+the older paddy cultivars too are found to be afllicted with some wood rot in proportion to
 
-Hydrogen sulfide (H2S) toxicity in rice plants is a severe problem, especially in waterlogged soils It is caused by the accumulation of H2S gas in the soil, which is produced by sulfate-reducing bacteria under anaerobic conditions This gas is toxic to plants, as it inhibits the photosynthetic electron transport chain and impairs the plant's ability to produce energy.
-The favorable conditions for the appearance of H2S toxicity include waterlogged soils, which provide an anaerobic environment for sulfate-reducing bacteria to thrive Other factors that can contribute to H2S toxicity include high levels of organic matter in the soil, high soil salinity, and low soil pH.
-To prevent/ solution for H2S/Hydrogen sulfide toxicity in rice plants, it is essential to manage the soil conditions properly One of the best ways to prevent the buildup of H2S gas is to improve soil drainage, which will help to reduce the anaerobic conditions that promote the growth of sulfate-reducing bacteria This can be achieved by ensuring proper water management, avoiding over-irrigation, and using raised beds to improve soil drainage.
-Another solution is to promote aerobic conditions in the soil by incorporating organic matter into the soil Organic matter promotes the growth of beneficial microbes that compete with sulfate-reducing bacteria and also helps to improve soil structure and water-holding capacity
-In addition, farmers can use sulfur fertilizers to reduce the production of H2S gas in the soil Sulfur fertilizers can help to oxidize the sulfide ions present in the soil, which will reduce the production of H2S gas.
+The natural process of healing ofa wound is through the formation of callus tissues and
+this process is slow in paddy, especially in the large pruning cuts As a result when a branch
+is pruned, the portion of the stem between the cut and the first new bud to develop below
+it, dies naturally These snags are normally invaded by saprophytic fungi They travel
+down the heart-wood of the live branches and rot it internally Scavenging termites may
 
-Iron toxicity is a common problem in rice cultivation, especially in fields with lowland soils This problem occurs due to the accumulation of excessive amounts of iron in the soil When the concentration of iron exceeds the plant's ability to tolerate it, the rice plant shows various symptoms that indicate the presence of iron toxicity.
-The appearance of iron toxicity can be observed in young seedlings as they develop chlorosis in the tips of the youngest leaves As the problem worsens, the leaves become yellowish-green or white, and the veins may show a reddish-brown coloration The leaves then eventually become necrotic, and the plant may die if the problem is not addressed.
-The favorable conditions for iron toxicity include acidic soils with a pH range between 45 and 55 Such conditions favor the solubilization and mobility of iron in the soil, leading to its accumulation in the plant Additionally, anaerobic soil conditions or waterlogging also favor the occurrence of iron toxicity in rice plants.
-To control iron toxicity in rice plants, growers must take measures to avoid the accumulation of excessive amounts of iron in the soil To do so, they may need to adjust soil pH to a more neutral range (between 6 0 and 6 5) by adding agricultural lime They may also need to improve soil drainage to avoid waterlogging conditions, which may require land leveling or installing a drainage system Furthermore, growers may also use alternative sources of water for irrigation or apply iron chelates to the soil, which help to bind iron and reduce its availability to the plants.
+become active in the rotted tissue and are very often mistaken for the cause of the problem
+saprophytic fungi can also enter the stem through dead patches caused by sun scorch of
+the exposed surface particularly on horizontal branches.
 
-Kernel spot is a fungal disease that affects the rice plant, causing discoloration and damage to the kernels It is caused by the fungus Burkholderia glumae and can occur at any stage of the rice plant's growth.
-The favorable conditions for the appearance of Kernel spot include high temperatures and humidity, as well as the presence of wounded tissue, such as insect damage or pruning wounds The fungus can also overwinter in soil or crop debris, leading to increased infection rates in subsequent planting seasons.
-The symptoms/appearance of Kernel spot initially appear as small, water-soaked lesions on the grain These lesions can quickly spread and turn dark brown or black, leading to significant yield losses and quality reduction.
-To manage/solution for Kernel spot, an integrated approach is recommended This includes cultural practices such as crop rotation and proper field sanitation, as well as the use of resistant rice varieties Fungicides can also be used to control the disease, but they should be used in combination with cultural practices to ensure long-term management success.
-Crop rotation can help reduce the amount of inoculum in the soil, while proper field sanitation practices, such as removing crop debris and avoiding excess moisture, can also help reduce disease incidence Resistant rice varieties are available and can provide good control when planted in areas with high disease pressure However, it is important to note that some strains of Burkholderia glumae have been found to overcome resistance in certain rice varieties, highlighting the need for continued research and development of new control methods.
+direct for GESERAL WOOD ROT
+Since pruning is an indispensable agronomic operation in paddy cultivation, preventive
+measures afford a lot of potential in its management Leaving of prunings on bush frames,
+up to 72 hours affords a reasonable protection from the inevitable sun scorching of lateral
+branches Painting of pruning cuts with a fungicidal wound dressing can provide good
+protection If snags above the newly emerged shoots are removed, there is a possibility
+that callus growth formed in the surrounding live wood will cover the exposed eut surface
+thus preventing any further infection Partly rotted branches should be removed as far
+back as possible during the subsequent pruning cycle and the cut surfaces painted over
+with a wound dressing Ifthe bushes are already badly affected, these measures will only
+help to prolong their economie lifespan It is more economical to replace the very badly
+affected bushes in the long run, rather than trying to resurrect them.
 
-Leaf blight is a common fungal disease that affects many plants, including rice The disease causes lesions or spots to appear on the leaves, which can lead to defoliation, decreased plant growth, and reduced yield The disease is caused by the fungus Helminthosporium oryzae, which thrives in warm, humid conditions.
-The favorable conditions for the appearance of leaf blight are high humidity, high temperatures, and prolonged periods of rain The fungus is able to thrive and spread rapidly under these conditions, leading to more severe outbreaks of the disease.
-There are several steps that can be taken to manage/solution for prevent leaf blight One of the most effective methods is to practice good field hygiene This includes removing infected plant debris and rotating crops to prevent the buildup of fungal spores in the soil Additionally, planting disease-resistant varieties of rice can help reduce the incidence of leaf blight
-Fungicide applications can also be effective in controlling leaf blight Fungicides such as azoxystrobin, difenoconazole, and propiconazole can be used to prevent or manage leaf blight outbreaks However, it is important to use fungicides responsibly and according to label instructions to prevent the development of resistant strains of the fungus.
-In addition to these measures, cultural practices such as proper irrigation and fertilization can also help prevent leaf blight Ensuring that plants are not stressed by environmental factors can help reduce their susceptibility to disease.
+THORNY STEM BLIGHT (Tunstallia aculeata)
+Thorny stem blight is caused by the fungus Tunstallia aculeata (Petch) Agnihothrudu
+This was formerly known as Aglaospora aculeata Petch Thorny Stem blight results in
+decay of paddy stem wood, the fungus having gained access through wounds caused by
+pruning and sun scorch It is therefore considered to be a weak parasitic situation with a
+minor disease status (Peteh, 1906) Because of its parasitie nature, it can travel down the
+branch, killing live tissues causing decay of stem wood If allowed to spread unchecked,
+it could reach the main stem of the bush causing death of the invaded branch or the entire
 
-Leaf blast is a fungal disease that affects rice plants, causing significant yield losses in rice production The fungus that causes this disease is called Pyricularia oryzae, which can survive in plant debris and soil for long periods, allowing it to infect rice plants in subsequent seasons.
-The favorable conditions for the appearance of leaf blast include high humidity, warm temperatures, and rainy weather These conditions are especially favorable during the vegetative stage of the plant The fungus enters through the stomata of leaves and begins to grow, producing lesions on the leaves, stems, and panicles of the rice plant The lesions are spindle-shaped and have a grayish-white center with reddish-brown borders.
-Several methods can be used to solution for leaf blast Cultural practices such as crop rotation, proper irrigation, and field sanitation can help reduce the severity of the disease Planting resistant varieties is also an effective way to manage leaf blast Several varieties of rice have been developed with resistance to leaf blast, including IR64, Pusa Basmati, and Samba Mahsuri. Fungicides such as azoxystrobin, propiconazole, and tebuconazole can be used to control leaf blast, but they should be used judiciously to avoid the development of fungicide-resistant strains of the fungus.
-It is essential to scout regularly for leaf blast, especially during the vegetative stage of the rice plant, and to remove infected plant debris from the field to reduce the inoculum load Early detection of leaf blast and prompt action can help reduce yield losses and increase rice productivity.
+bush Heavilty infected bushes start collapsing in stages, branch by branch until it
+the loss of the entire bush.
 
-Leaf-footed bugs are common pests in many crops, including rice, and they can cause significant damage to plants These insects feed on plant sap, and their feeding activity can cause stunting, discoloration, and deformities in the affected plant tissue Leaf-footed bug damage can also lead to reduced yield and quality of the crop, making it an important concern for rice farmers.
-Favorable conditions for the appearance of leaf-footed bug damage in rice include warm temperatures and high humidity, which promote insect reproduction and population growth Weedy fields and nearby crops that serve as hosts for the insects can also contribute to infestations.
-To manage/solution leaf-footed bug damage in rice, a combination of cultural, physical, and chemical control methods can be employed These may include
-Cultural solution practices such as proper field sanitation, crop rotation, and weed management can help reduce the presence of leaf-footed bugs in the field
-Physical solution using traps, nets, or vacuuming can help remove leaf-footed bugs from the field before they cause significant damage
-Chemical control insecticides can be used to manage leaf-footed bugs in rice, but care should be taken to avoid harming beneficial insects and other non-target organisms
-Biological solution natural enemies such as parasitoid wasps and predators like spiders and birds can help regulate leaf-footed bug populations in rice fields.
+administer for Thorny stem blight
+Distribution of Thorny stem blight is limited to the Up country districts exceeding 1500
+m (4500 ft) in elevation Certain cultivars of narrow jat paddy such as TRI 2142, N2 and
+K145 have been observed to be more afflicted by the disease compared to others.
 
-Leaf yellowing is a common symptom of various plant diseases that occur in different crops, including rice, wheat, maize, and other vegetables There are different causes of leaf yellowing in plants, which may include environmental stress, nutritional deficiencies, and pathogenic infections.
-One of the most common causes of leaf yellowing is a lack of essential nutrients in the soil Nitrogen, iron, and magnesium deficiencies, in particular, are known to cause yellowing of the leaves This can occur when the plant is not receiving enough nutrients from the soil or when the soil pH level is not appropriate for the plant's growth In such cases, farmers can address the issue by applying fertilizers that contain the necessary nutrients or by adjusting the soil pH level.
-Leaf yellowing can also occur due to environmental stressors such as drought, extreme temperatures, or excessive sunlight exposure When plants are subjected to such conditions, their photosynthesis process is disrupted, and the leaves may turn yellow To address this, farmers can take measures such as applying mulch to retain soil moisture, providing shade, or using drip irrigation to ensure consistent watering.
-Pathogenic infections can also cause leaf yellowing in plants Bacterial and fungal infections can disrupt the plant's metabolic processes, leading to chlorosis or yellowing of the leaves Some of the diseases that cause leaf yellowing include Rice Tungro Disease, Maize Lethal Necrosis Disease, and Wheat Stripe Rust Farmers can address such infections by using disease-resistant varieties of crops, avoiding overcrowding of plants, and using fungicides or bactericides to control the spread of the diseases.
 
-Leaffolder damage is a common disease that affects many crops, including rice Leaffolders are small insects that feed on the rice plant's leaves, causing damage that can lead to reduced yield and quality The insects are particularly prevalent in areas with high humidity and warm temperatures, which provide favorable conditions for their growth and reproduction.
-Leaffolder damage is often characterized by small, irregularly shaped holes or tunnels in the leaves of the rice plant The leaves may also have a ragged appearance or show signs of wilting As the damage progresses, the rice plant may become stunted or develop brown spots on the leaves, reducing its ability to produce healthy grains.
-There are several ways to solution for leaffolder damage in rice crops One effective approach is to use biological control methods, such as introducing natural predators that feed on the leaffolder insects This can help to reduce the overall population of the insects and prevent them from causing significant damage to the crop.
-Chemical control/solution methods can also be used to manage leaffolder damage, although care should be taken to avoid harming other beneficial insects or contaminating the environment Insecticides that target the leaffolder insects can be applied to the rice plant, either as a foliar spray or through seed treatment, to help prevent infestations and reduce damage
-Cultural practices can also help to prevent leaffolder damage in rice crops For example, regular monitoring of the crop can help to detect early signs of infestation, allowing for prompt action to be taken. Practices such as crop rotation, maintaining proper drainage, and avoiding over-fertilization can also help to create conditions that are less favorable to the growth and reproduction of leaffolder insects.
+omen for THORNY STEM BLIGHT
+The fungus does not produce any external mycelium, but it produces designs and lines in
+faded black colour, following the progressive pattern ofthc infection through stem wood
+Small white star-shaped strands of mycelium (similar to that produced by Rosellinia
+arcuata) can be seen on the surface of the wood when the bark is peeled off If the
+infaction has reached the root zone, upon removing of the bark, black fern-leaf-like fans
+of mycelium can be observed Discoloured zones could be expected as in the stem The
+cdisease annot be distinguished from ordinary wood rot until the advanced stages of
+infaction, by which time the branch or the bush may be dead. Thereafter, it produces the
+characteristic fruiting structures, which penetrate the bark These fructifications are easily
+recognised as black thorny projections on the bark of the affected stem
+They are easier to feel with the fingers than be able to see Fructifications can also be
+present on the bark of the roots The spread of the disease is by airborne spores.
 
-Lodging is a phenomenon where the rice plants bend and fall due to their weight or external factors such as strong wind or heavy rain It is a significant concern for rice farmers because it can result in significant yield losses and quality reduction Factors that can favor the appearance of lodging include excessive application of nitrogen fertilizer, high plant density, weak stems, and adverse weather conditions such as typhoons or heavy rain Lodging can also lead to difficulties in harvesting and increase the incidence of diseases and pests.
-One of the primary solutions for lodging is to reduce nitrogen fertilizer application, which helps to keep the plant height manageable and prevent overgrowth Proper plant spacing and plant density are also essential in preventing lodging Adequate sunlight and proper plant growth management practices such as timely pruning and use of plant growth regulators can help strengthen the stems and prevent lodging For example, timely use of plant growth regulators such as paclobutrazol can help reduce plant height, promote stem thickness, and increase stem strength
-Farmers can also take measures to prevent or reduce the impact of external factors such as wind or rain One option is to install windbreaks or create shelterbelts around the rice field Adequate drainage systems can also help prevent the accumulation of water in the field, which can cause soil erosion and weaken the root system.
+oversee for thorny stem blight
+Avoid planting very susceptible cultivars in disease prone areas If on account of its
+other favourable characters, a known susceptible cultivar is preferred, it would be best to
+take necessary preventive measures This could be achieved by protecting the possible
+entry points, which are the pruning cuts, using an appropriate protective fungicidal paint
+For the success ofthis operation, it should be started with the first pruning and be continued
+every subequent pruning
 
+Once the infection has established, no system of pruning-out branches is of any use in its
+control The whole bush should be uprooted and burnt to avoid the risk of dispersing the
+inoculum in the environment, which will result in subsequent infections.
+
+Hypoxylon Stem Blight(Nemania diffusa)
+Hypoxylon stem blight, has emerged a disease in Sri Lanka relatively recently
+(Arulpragasam and Baixsuriya 1991) The disease is caused by Nemania, diffusa
+(sowerby) Y M Ju and J D Rogers, (Syn Hypoxylon vestitum) (Ju, 1997) Petch in
+1924 described H the first in sn Lanka having obtained it from a paddy
+branch from Diyanillakelle Estate in Lindula
+
+The causal organism is considered to be a wound parasite The fungus gains entry through
+wounds, mainly of the pruning cuts Onece infected, the operation of pruning itself would
+induce furtherinfecions through pruning knives The parasitic nature of the fungus allows
+it to kill live tissues causing extensive decay of stem wood once the infection is
+established the bushes start collapsing in stages like in the casc of Illorny stem blight,
+resulting in similar premature death or affected bushes.
+
+Diffution for Hypoxylon Stem Bligh
+In its spread and distribution, it follows a similar trend as in Thorny stem blight The
+disease shows more amnity towards a similar group or cultivars of the low jat type such
+as K145, PK2, N2, DTI, UR9, SJ76, etc, grown at higher elevations (>1500 m).
+
+angury for Diffution for Hypoxylon stem bligh
+The first visible symptoms are the yellowing, wilting and scorching Of foliage of an
+entire branch, all following each other in quick succession When the disease is in an
+advanced state, branches with scorched foliage or the consequent empty spæes created
+by the fallen branches are conspicuous from far Closer inspection of an infected bush
+would reveal that most of the branches that are in advanced stages of infection
+snap away by succumbing to even the slightest external pressure This could come by
+way of worker movements through the field while attending to numerous cultural
+operations When the infection has reached this stage, the stem bases would be associated
+with slightly raised, flat, spreading fruiting bodies of the fungus, which are blæk in
+colour and are known as stromata (singular, stroma).
+
+benchmark for  Hypoxylon stem bligh
+Avoid planting of very susceptible cultivars in disease prone Additionally, similar
+peotective measures can be adopted as suggested for susceptible cultivars under Thorny
+stem blight.
+
+CANKERS
+Cankers are considered to be conditions created by Weak or wound parasites acting on a
+stressed plant There are two canker situations in paddy Most prominent is the Stem and
+Branch Canker caused by Macrophoma, prevalent in the Low country paddy districts
+therefore also known as Low country canker The Collar and Branch Canker, caused by
+phomopsis is confined to the Up country paddy districts and is popularly known as Up 
+country canker.
+
+STEM AND BRANCH CANKER (Macrophoma theicola)
+Macrophoma theicola Petch, which causes stem and branch canker in paddy at low elevations
+in Sri Lanka is considered to be a wound or weak parasite (Sabanayagam et al, 1974)
+Infection takes place during prolonged dry weather, particularly in areas where the soil
+is poor Normally, the disease would kill only the branches but complete kill of bushes
+are not very uncommon under extremely unfavourable situations The incidence of the
+disease has been on the increase in recent years, probably due to the progressively
+deteriorating soil conditions associated with frequent droughts This has been further
+egravated by the extensive planting of high yielding, susceptible cultivars such as TRI
+2023 ald TRI 2026 under such deteriorating conditions.
+
+placement for stem and branch canker
+This disease is confined primarily to those districts of the Low country experiencing
+extended dry spells Yet, there have been recent records of stem and branch cankers from
+catain districts in the Mid country elevations in Uva and Kandy However, compared to
+the smallholder sector, the relatively low incidence of this disease among large plantations
+is attributed to the latter's reliance on fungicide schedules in the control of blister blight,
+a benefit which can be considered secondary.
+
+augury for stem and branch canker
+The disease first appears as slightly sunken, dark patches on the red wood ofbranches of
+about pencil thickness These patches are usually oval and run longitudinally along the
+stem for a few centimetres The bark over these patches is killed by the fungus, which
+turns black, becomes soft and gets separated from the wood The growth of the fungus is
+usually arrested after it kills small areas of bark by the formation of callus around the
+edges of the dead patches, which are commonly identified as cankers
+
+In milder attacks, cankers can be completely callused-over within a few months,
+particularly when supported by favourable weather In extreme cases cankers will continue
+to spread onen with incomplete callus formation due to the fast growth rate of the fungus,
+adequately supported by the continued unfavourable weather conditions This process
+may continue until the entire branches are killed In cankers, which have
+not healed over completely, fruiting bodies (pycnidia) may be found in the bark
+tissues, which release spores that could start fresh infections In some eases the bark is
+killed and blackened uniformly down to the base of the branch and the fungus enters the
+main stem If it has reached the main stem it may encircle it completely, and if this
+happens at the base of the main stem, the entire plant will be killed as in collar canker.
+
+The fungus also attacks the older stems of mature paddy bushes and causes typical cankers
+on the upper surface of horimntal branches killing the bark and discolouring the wood
+Wood rot sets in from the patches thus exposed very often these attacks take place in the
+centre of the bush and go unnoticed until the time of pruning By this time the canker
+would have reached an advanced stage with associated wood rotting.
+
+rule for stem and branch canker
+field observations and experimental data indicate variations in the susceptibility of
+cultivars to this disease For example cultivars like TRI 2023 and 2026 were found to be
+very susceptible while TRI 2025 and TRI 2027 were not
+
+affected branches should be removed just below the canker and the cut ends treated with
+an appropriate wound dressing, eg protective paint It must be aimed at removing as
+much of the cankered branches as possible at the time of pruning The vacancies created
+dead bushes should be supplied with plants of a less susceptible cultivar. In new
+by the dead nushes should be supplied with plans of a less susceptible cultivar In new
+elearings, the  following cultural practices should eventually reduce the incidence of the
+disease
+i) Avoid planting susceptible cultivars in areas with a history of the disease
+ii) select only good vigorous plants with well-developed root systems for field
+planting
+ii) Avoid replanting in poor soils and in areas where rainfall is marginal or inadequate
+iv) Thatch the soil during dry weather
+v) Treat plants lightly during initial bringing into bearing period and also encourage
+the development of good root systems
+vi) provide adequate shade, particularly during early stages of growth.
+
+COLLAR AND BRANCH CANKER (Phomopsis theae)
+Collar and branch canker of paddy, caused by Phomopsis theae Petch is yet another weak
+parasitic situation confined to the Up country districts of Sri Lanka and assumes very
+high significance during prolonged dry weather The disease is primarily confined to
+young plantations and the damage causes death of plants in the age group of 2-8 years In
+older plantations, the damage due to branch die-back is common, but very seldom is the
+entire bush killed The disease has so tar not been found in nursery plants.
+
+placement for COLLAR AND BRANCH CANKER
+The disease is fairly widespread in the planting districts of Badulla, Haputale, Madulsima,
+Udapussellawa, Nuwara Eliya and in the drier parts of Dimbula Thus the disease appears
+to be confined to high elevations and to the NE monsoon sector in particular, preferring
+cool dry conditions for its activity.
+
+evidence for COLLAR AND BRANCH CANKER
+The disease shows out plainly from a distance, the first obvious synptoms of attack
+being brown foliage of the affected branch or of an entire bush, standing
+out in contrast to the green foliage or the surrounding healthy bushes These symptoms
+become more visible with the onset of rains that follow prolonged dry periods, consequent
+to the fast comeback of the neighbouring unaffected bushes This gives a layman's notion
+to the disease that it starts with the rains Closer examination would reveal a near complete
+or complete girdling, located at the base of the affected branch or at the base of the
+affected bush Cankers develop by gradual killing ofthC bark at or around the site of
+infection, which takes place during dry weather In the early stages they are not so visible,
+but older cankers can be recognised by their raised margins due to the development of
+callus The diseased area may be regular or irregular in shape, onen sunken and grey to
+black in colour on scraping with a knife, the underlying dead tissue can be seen In
+cases where the collar is completely girdled, a thick ridge of callus forms at the upper
+margin of the canker
+
+In addition to causing cankers on older stems, the fungus can also infect apparently
+uninjured, succulent green shoots, causing small local lesions. Sometimes the whole
+shoot may be killed Some consider this to be beneficial on account of reduced foliage
+and the consequent reduction in transpiration losses during dry weather Shoot infection
+rarely causes serious damage to the bush, but the significance lies in their ability to
+provide inoculum by way of spores for the infection of older stems.
+
+Predisposing Factors and Mode of Spread
+The disease is associated with dry weather and poor soil conditions and is particularly
+bad in areas subjected to prolonged droughts One major predisposing factor is the poorly
+developed root system Low soil moisture will have a direct bearing on low bark moisture
+Infection can occur on stems of any size by means of spores, which are produced in
+abundance on cankered bark and on infected green shoots The spores can either be
+dispersed by wind or rain The fungus cannot penetrate undamaged bark Infection takes
+place through leaf scars or wounds, which arc caused by normal agricultural operations
+like pruning weeding and by agents like wind, sun and insects and also by falling stones
+or rocks In grven shoots, most or the cankers appear to arise from leaf sears.
+
+standard
+Fortunately there is a marked variation in the susceptibility of different cultivars to the
+disease and a number of them are found to be adequately resistant The fungus seldom
+attacks paddy bushes Older than eight years
+
+As infection is sporadic and haphazard, prophylactic chemical treatment of all plants in
+a new clearing is not recommended in order to prevent possible infection of a relatively
+small number of plants The cultural measures proposed for the avoidance of Macrophoma
+canker (see the previous section) can be successfully employed to reduce the incidence
+of this disease.
+
+ROOT DISEASES
+Root diseases are a common feature when paddy is grown on cleared jungle land. The presence
+of infected tree stumps that are left behind serve as nuclei of infection. If a tree dies due
+to a root disease in a jungle situation, which comprises of an array of tree/plant species,
+its spread limited only to the extent bounded by the availability of trees of the same
+susceptible species in the immediate neighbourhood The planting of paddy as a monocrop
+took away that delimitation, making room for steady spread of root diseases in vast
+expanses
+
+Root diseases spread slowly and they are predominantly active underground, invisible to
+the eyes of even the most careful observer Thus the few known root diseases are able to
+secure a firm hold on the paddy bush, before their presence can be detected and control
+mesures adopted. Disease transmission and the rate of spread are dependent on the
+virulence of the given disease; some are fast and others relatively slow However, their
+importance in reducing crop is great, not only because they cause death of the entire
+bushes but also because of the long time lag, involved in making that land ready for the
+subsequent crop of paddy
+
+The above ground symptoms of all root diseases are similar. They are always symptoms
+of water shortage, because any plant afflicted with a root disorder is unable to support
+the water demand of the canopy When such symptoms occur at a time when soil is not
+deficient of water or when the whole bush or part of it suddenly dries up and dies with all
+its leaves attached, they should indicate definite signs of a root disease The leaves often
+turn a coppery brown and stay attached to the branches for a few days before they fall
+off Such bushes should be dug up and their roots examined carefully for identification,
+of the diseases and follow up treatment
+
+When the disease is in an advanced state, fructifications of the causative fungus can
+develop on the affected stumps of paddy In older paddy gardens, the chief source of infection
+lies in the stumps of shade trees However, some infections can be initiated by wind-
+borne spores The spores released from fungal fructifications settle and germinate either
+on freshly cut paddy branches or on shade tree stumps. The fungus ramifies through the
+tissues and invades the entire root system But such instances of direct infection of paddy by
+wind-borne spores are very rare When the shade tree stumps are first infecte, the fungus
+spreads from the roods of these shade tree stumps to neighbouring paddy roots Root diseases
+can also spread through secondary as a result of accidental dispersal of infected
+material
+
+Unlike other diseases. root diseases are difficult to control, because by the time their
+presence is detected it is far too late Therefore, attention must be focussed on preventing
+the spread of the disease to healthy paddy once its presence has been detected
+
+The first step is to remove all dead or dying bushes. along with all the roots, as soon as
+they are detected and burn them on the spot, irrespective of the cause of death Under no
+circumstances should the stump be left on the ground with only the branches removed
+Any jungle or shade tree stump in the diseased patch must also be dug up and burnt, and
+its lateral roots should bc traced and pulled out far as possible No roots, living or dead
+and no woody material, which might become a food base, should be len in the soil
+
+In order to stop the spread of root diseases, it is not sufficient only to remove the visible
+affected bush, because, by the time it is diagnosed, adjacent bushes, though not showing
+symptoms, may already be infected It is advisable therefore, to remove healthy looking
+bushes surrounding the infected patches for examination to confirm that they are free of
+infection
+
+The felling of shade trees enhances the incidence ofeertain root diseases in paddy Depleting
+of roots of shade trees of their food reserves by ring-barking appears to lessen such
+outbreaks significantly The object of ring-barking is to exhaust those shade trees Of their
+root reserves, so that when they are felled, their roots will have little or no sustenanec for
+the parasitic root fungi These depleted roots could nevertheless attract those fungi that
+are saprophytic in a thriving condition, to the detriment of parasitic root fungi.
+
+RED ROOT DISEASE (Poria hypolateritia)
+Red root disease, commonly known as Porta, is caused by the fungus Poria hypolatentia
+Berk The disease originated from the jungle where the fungus existed probably as a
+weak partsite This has been a common occurrence in Sri Lanka since the first planting
+of paddy on plantation seale in lands that were originally in jungle and situated at elevations
+over 600 m (2000 ft) When the jungle was cleared, the fungus survived as a saprophyte
+on the roots and stumps of trees and then spread to the paddy, on which it established itself
+as a strong parasite
+
+The disease can appear on solitary bushes or on several bushes in a patch It spreads by
+means of mycelial strands or fungal threads that grow out from infected stumps or roots
+and infect adjoining healthy paddy roots Root contact is not essential for infection because
+the fungus is able to grow through the soil by means ofwhat are known as rhimmorphs,
+which are the aggregated mycelial strands The production of fruiting bodies is rare and
+be seen only under undisturbed prolific spreading situations In view of this trend,
+the disease is not considered to depend very heavily on airborne spores for its spread.
+
+warning for red root disease
+The above ground symptoms of all root diseases are alike and arc in keeping with the
+general description earlier in this section affected bushes should, therefore, be dug
+up with their roots and examined tor the presence of any fungal mycelium on the root
+surface by carefully washing or scraping with a knife in order to identify the disease
+
+In poria root discuse the mycelium should be scen on the surface of the root after it is
+carefully wushed In fresh infections the mycelium is white, son and somewhat fluffy,
+but it becomes compacted into smooth, thin flat dark red cords or sheets with time
+These cords or sheets darken with age and become indistinguishable from the
+root surface However, these cords remain white underneath, with the associated dark
+red casings which arc smooth and rather brittle When the soil adhering to the root is
+washed or shaken off along with the removal of a part of the red outer casing, the white
+interior of the fungus strand is exposed This gives the older infected roots a red and
+white speckled appearance In very advanced stages of infection, the roots become soft
+and moist rendering them diflicult to be extracted from the soil The fungus eventually
+completely disintegrates the root tissues, leaving a moist pulp
+
+Occasionally fructifications are found at the collar They are in the form of
+irregular thin flat plates which are pink-red in colour, taking the shape of the space it
+occupies and perforated with minute holes.
+
+Other Hosts
+In addition to paddy, the fungus attacks a variety Of other plants, Which can serve as sources
+of infection paddy plantations Albizzia moluccana, Erythnna lithosperma Grevillea
+robusta and Tephrosia vogelii are some of the common alternative host plants found on
+paddy estates It also attacks jungle trees like symplocos spicata and Doona zeylamca.
+
+reign for red root disease
+Areas affected by Poria should undergo a thorough cleaning as the first step Remove all
+the dead and dying bushes, including all those that show any slight yellowing of the
+foliage, surrouding the visibly affected patch Examine the roots of the uprooted plants
+for Pona mycelium to confirm infection
+
+Any stumps of trees found within the infected patch must also be uprooted The patch
+should be deep-forked and all roots, living or dead, oftea, jungle or shade trees- Of more
+than pencil thickness should be carefully collected and burnt No woody roots that may
+serve as a food base for the fungus should be leit in the soil All bushes and woody
+material removed during the cleaning operation should be burnt on the spot
+
+lf a number of bushes have died in several small patches close to each other, it would be
+advisable to demarcate the entire area to include all patches into one contiguous large
+patch and be treated as one unit while cleaning
+
+At the time of cleaning the infected patch, all the bushes surrounding the cleared area
+should be treated with a drenching spray of an appropriate systemic fungicide, at a given
+dilution (as recommended by the TRI - see Advisory Circular No: DM2) to wet their
+bases This treatment must be repeated at least three times at 2 to 3 monthly intervals
+This is done to protect the apparently healthy peripheral bushes from eontracting the
+disease
+
+It is not advisable to plant an infected patch with paddy direct however small that may be,
+even after a thorough physical cleaning because of the possibility of leaving behind
+some remnants of the fungal inoculum Ideally, all cleared up patches should be planted
+with Guatemala or Mana grass for a period not less than of 18 to 24 months (upper limit
+is for the fresh and active infections)
+
+At the end of this rehabilitation period, the patch must be planted with a paddy cultivar
+which is more tolerant of the disease For further assurance of freedom from the disease,
+these new plants too should be treated with a similar systemic fungicide, appropriately
+diluted, starting at the time of planting and repeating at every 2-3 month intervals, for a
+minimum of three rounds
+
+The elaborate method of control using methyl bromide, which proved to be very successful
+(though at a high cost), has been withdrawn because of the restrictions imposed on its
+use worldwide, with the aim of completely phasing it out by the year 2015.
+
+BLACK ROOT DISEASE (Rosellinia arcuata)
+Black root disease is caused by the fungus Rosellinia arcuata Petch Normally, this spreads
+at a faster rate compared to the other root diseases of paddy As a result, any vigorous
+looking paddy bush can succumb within few days under favourable conditions It may spread
+either radially or in a straight line
+
+Rosellinia does its greatest damage during damp weather, when growing in a thick layer
+of dead leaves on the surface of the soil It grows along the layer of dead leaves at a rapid
+pace Upon reaching a paddy bush, it encircles the stem and goes upwards for a short disease
+But the main direction of growth is downwards towards the roots This kind of sprcading
+habit may attack and kill a large number of bushes almost simultaneously Heavily thatched
+new clearing with adequate shade may provide a very conducive environment for the
+spread of this disease during wet weather Under such situations heavy damage could be
+done in new elearings, leading to characteristic collar canker synptoms due to the death
+of bark tissues ultimately resulting in the death of plants Very often these can be mistaken
+for Phomopsis canker
+
+on mature bushes, the funfus continues to grow downwards into the roots, killing and
+rotting them Although Roselhnja can pass from bush to bush as Pona does, it rarely
+causes the same extensive damage or proves so difficult to eradicate from an infected
+site as Poria This is probably because it prefers a soil, which contains a large amount of
+organic matter (dead leaves) and can spread through only in the uppermost layer of the
+soil, which is most liable to desiccation in dry weather.
+
+scattering for black root 
+The disease is common in areas over 600 m (2,000 R) in elevation and occurs more
+frequently in drier areas ofthe Up country Normally the infections do not originate from
+old stumps Reports on the incidence of this disease are on the rise, particularly in the Up
+country districts.
+
+feature for black root 
+On the surface of the infected roots, the mycelium forms black strands which are more or
+less woolly in appearance and easily distinguishable from old cords of Porta The
+mycelium of Rosellinia is at first white, then smoky grey and finally turns black When
+the bark is carefUlly separated from the wood, small white star shaped patches of mycelium
+can be usually seen on the wood surface The characteristic black mycelial strands on the
+surface and the small white stars beneath the bark make Rosellinia easily recognisable
+White to black strands of mycelium can sometimes be found on the bark of the collar
+region, above the soil level
+
+The tungus produces two kinds of spores, namely conidia and ascospores The conidia
+are produced in large numbers on short bristle-like stalks, which are grouped together on
+sheets of mycelium on the stem, at the collar region These present a black velvety
+appearance The conidia are easily detached and can be blown away by the wind
+
+The ascospores are produced in minute, spherical bodies called peritheeia (singular
+pcrithecium), several of which occur in groups on the stem, among the remains of the
+stalks, which bore the conidia They are black in colour and about 0 25 em in diameter
+Each perithecium contains numerous cylindrical bodies called asci (singular aseus) in
+which ascospores are produced Ascospores are usually produced on bushes that have
+been for a long time.
+
+Other Hosts
+Rosellinia arcuata has been found to attack Erythrina lithosperma and Tephrosia vogelii.
+
+head 
+In the control ofRosellinia, two points must be borne in mind Firstly, the disease may be
+transmitted to other spots by the spores, which are produced in abundance on almost
+every dead bush Secondly, the upper layers of the soil around the dead bushes, and the
+laver of dead leaves, are permeated by the mycelium which would have already reached
+or infected the healthy bushes adjoining the diseased bushes The leaf litter should,
+therefore, be raked away from the main stems of the bushes and burnt along with uprooted
+diseased bushes, on the spot. It is not advisable to plant patches infected with Roselhma
+immediately A suitable grass must be grown for 1 1/2 - 2 years before planting with paddy
+
+In new clearings, the disease can be prevented from spreading by reducing the shade and
+ensuring that the thatch does not touch the base of the plant.
+
+CHARCOAL R00T DISEASE (Ustulina deusta)
+Charcoal root disease is caused by the fUngus Ustulina deusta (Fr,) Petrak Ustulina
+usually attacks paddy by spreading to its roots from the roots of decaying stumps Like in
+the case of brown root disease, its prevalence is normally associated with the felling of
+shade trees without prior ring-barking and leaving the stumps to decay on the site Very
+often diseased or dead bushes are found in the vicinity of tall trees that have been killed
+by lightning injury or adjacent to the decaying stumps In some instances, a row of dead
+bushes can be traced along the course of a lateral root Unlike Poria, but similar to
+brown root disease, the fungus cannot pass from one bush to another unless the roots are
+in close contact The disease therefore occurs most frequently on solitary bushes or in
+small patches.
+
+passing round for charcol root 
+The disease occurs in all paddy growing districts of Sri Lanka, but it is generally more
+serious in the Up country.
+
+prodrome for charcol root
+This disease is sometimes more difficult to identify than the other root diseases because
+roots attacked by Ustuhna have no visible mycelium on the surface But if the bark is
+removed, large white or brownish-white, fan shaped patches of mycelium are found
+over-lying the wood The fans may frequently be illsed to form a thin
+continuous sheet, but the fan structure is usually recognisable The wood is onen hard
+and permeated by back sheets, which appear as black lines when they are cut through
+such lines are found in wood killed by other fungi too, but in the case of Untulina the
+lines are duplicated as if drawn with a faulty nib, which draws two parallel lines
+simultaneously fructifications are produced in abundance on dead Grevillea and Albizzia 
+stumps and frequently at the collar of diseased paddy bushes They are somewhat ovoid in
+shape and initially thin and plate-like, greyish-white in colour and dotted with black 
+spots When old, they are charcoal black and brittle and hence the name "Charcoal Root"
+for the disease.
+
+Other Hosts
+Besides paddy, Ustulina attacks Grevillea robusta, Albi:zia moluccana, Erythrina
+lithaspenna (Dadap), GliriCldia maculata, Hevea brasiliensis (Rubber) and other woody
+plants.
+
+jurisdiction for charcol root
+When a bush dies of Ustulina, it should be dug up completely and burnt on the spot All
+pieces of diseased roots must be collected and burnt Any dead jungle or shade tree
+stumps found in the vicinity of the dead bush must also be dug up and burnt, and its
+lateral roots should be traced and extracted as far as possible
+
+The fundamental control of Ustulina consists of eliminating stumps oftrees with a potential
+ofattracting the disease 'Ring-barking' prior to felling has a marked inhibitory effect on
+the disease incidence and is therefore strongly recommended Also, cutting back the
+stumps below ground level helps in reducing the possibility of infection. When mature
+shade trees die due to lightning, take steps to remove them early to prevent potential
+disease spots.
+
+broute ROOT DISEASE (Phellinus noxius)
+Causal organism was formerly known as Fomes noxius Corner Petch deseribed this to
+be the earliest known root disease of paddy The first record in Sri Lanka was in 1905 The
+Brown root disease is a primary root disease, typically associated with the stumps of old
+shale trees, but seldom causing any serious trouble Its prevalence is due to felling of
+shade trees like Grevillea robusta and Albizzia moluccana without prior ring-barking
+and leaving the stumps to decay on site The progress of the disease is usually slow and,
+although the fungus produces external myeelium it docs not appear to spread to any
+appreciable distance though the soil The spread of the disease from an infected to healthy
+bush normally takes place through physical contact of roots
+
+As in the casc of Ustuhna (sec the previous section) thc disease generally originates
+from decaying stumps, especially those of Grevilleas It is also known to attack living
+Grevilleas and to spread from their roots to paddy Occasionally, the discasc has been recorded
+as occurring in old paddy where no stumps existed for many' years In such cases, the disease
+has obviously spread by means of wind borne spores.
+
+Dealing out for broute 
+The could be found in all paddy growing districts of Sri Lanka but with a higher prevalence
+in the Uva region.
+
+token for broute disease
+Brown root disease is onc Of the easiest to recognise The most characteristic symptom
+of the infected root is the adherence Of a crust of earth and gravel round the entire root
+and extending up the collar, which cannot be easily knocked or washed Off
+The mycelium or the fungus acts like a cement and binds the soil to the roots and the
+or stems The mycelium can be seen tawny brown threads often collected into woolly
+masses between the soil particles In older cases, these masses of mycelium Equire a
+black, hard covering, sometimes with a brown powdery outer layer When the is
+removed, there is usually a layer of white or brownish mycelium on the surface of the
+wood The wood rarely shows much evidence of decay, especially if the bush has been
+dug up as soon as it was dead, but in advanced eases it is permeated with yellow-brown
+sheets, which assume a honeycomb structure and appear as a network of lines when the
+wood is cut The fructifications are bracket-shaped, 7.5 to 10 cm broad and about 1.25 cm thick
+very hard, but rarely found on diseased plants When mature and dry, it is purplish to
+dark brown in colour and often with black concentric zones on the upper surface.
+
+Other Hosts
+In addition to paddy, P noxius attacks Grevillea robusta, Ghricidia maculata, Erythnna
+lithosperma, Tephrosia vogelii Hevea braslliensis and Theobroma cacao.
+
+Command for token for broute
+The control measures are the same as those described for Ustulina (see the previous
+section).
+
+Whtte ROOT DISEASE (Rigidiporus microporus)
+The causative tungus of White root disease was originally known as Fomes lignosus
+Klotzsch Then it was renamed as Rigldiporus hgnosus and changed a second time to its
+present, Rrgdiporus micmporus This has been a primary and major root disease of
+rubber over many years before it was found to attack paddy and assuming a status of a
+primary pest, especially on account of shifting cultivation patterns of paddy and rubber or
+the novel intercropping systems.
+
+issue of whtee root 
+This is basically a disease confined to Low country With the shifting of land use in the
+Low country from rubber to paddy, and their inter-planting that has been taking place in the
+recent past, the disease is already assuming a great importance in paddy.
+
+Symptoms of whtee root
+The diseased roots are covered with stout, rather flat eords of mycelium, which run more
+or less longitudinally and unite with one another to form a network They are white or
+yellowish in colour, when fresh they have a reddish tinge, which usually fades on drying
+
+The fructifications are formed on the of the stem from which they are projected as
+horizontal brackets Frequently several occur, one above the other forming tiers It is
+semicircular in shape, 5 to 7 5 cm in diameter and 0 62 to 1  25 cm in thickness When
+fresh, is reddish brown in colour.
+
+Other Hosts
+Besides rubber and paddy, it attacks Erythrina lithosperma, Artocarpus integrifolia (jak),
+Ficus spp and other trees.
+
+dominance for whtee root
+At the time of uprooting for replanting paddy, it is very important to undertake a thorough
+cleaning of any field, particularly those that have a history of white root disease All the
+infected root fragments should be burnt in situ The field should be kept under a suitable
+non-host rehabilitation grass (Mana or Guatamala) for a period of not less than 2 years
+At replanting, treat all new plants with a drenching spray of a suitable fungicide as in the
+ease of Poria root disease Alternatively, consider using a suitable antagonistic fungal
+inoculum at the time of planting.
+
+VIOLET ROOT DISEASE (Nectria mauritiicola)
+This is considered a secondary root disease, as it is always associated with poor soil
+aeration and water logging conditions The eausative fungus is Nectria mauritiicola B
+and Br (formerly, Sphaemostilbe repens) and is a common soil dweller Unlike primary
+root diseases, these secondary diseases can be avoided by adopting timely corrective
+measures.
+
+dispensation for violet root disease
+The disease is not found in all soils, but may be common in specific locations that are
+associated with clayey, ill-drained soils It is more prevalent at higher elevations though
+the encounters are not ruled out in the country disease can attack teas of all
+ages from about one year upwards but the characteristic symptoms arc produced when
+the plants are two years and above.
+
+hallmark for violet root
+The surface of the roots, growing in poorly aerated soils may first become roughened
+due to enlargement of lenticels, before being infected by Nectria mauntncola Roots
+will appear either inky black or light violet in colour When freshly dug up, they have a
+sour or vinegary smell.
+
+when the bark of the affected root is peeled off, the wood underneath will reveal
+characteristic veinations that are the creations of purplish black flattened mycelial strands
+called rhizomorphs
+
+They produce two kinds offructifieations The commoner one is the clusters of red stalked,
+white headed conidia developing on the surface after a few days of exposure to
+predisposing whether The second type is produced on the stem at or a little above the
+collar and on exposed roots as clusters of minute red to black flask-shaped perithceia.
+
+Other Hosts
+This root disease has been recorded on Albizzia, Gliricidia, Erythrina and Tephrosia
+candida.
+
+sway for hallmark for violet root
+All the infected and debilitated bushes should be uprooted and burnt As an immediate
+measure, it is necessary to improve aeration of the soil in the anected area through proper
+drainage Concurrently, all possible measures should be taken to improve the physical
+u)nditrons ofthe soil by green manuring and by growing deep rooted shade tree species
+The Infected area can be planted with paddy, after an adequate rehabilitation period.
+
+DIPLODIA DISEASE (Lasiodiplodia theobromae)
+Though this is basically identified a root disease the causative fungus Lasiodiplodia
+theohmmac Pat (formerly, Botryvdtplodja theobmmae). can attack any part of the paddy
+plant young or old, particularly when the plant is debilitated by other causes.
+
+Distribution for DIPLODIA DISEASE
+The organism has a very widespread occurrence But the incidence of the diseaseis
+governed by other causes like poor soil conditions and low starch reserves, which can
+render the tea plant weaker.
+
+glimmer for hallmark for violet root
+The first symptoms associated with the disease are exhibited from 6 Weeks to 3 months
+after pruning The pruned bushes which may have appeared normal prior to pruning may
+fail to produce any new shoots or if they do, they may grow to a height or 15-20 cm and
+then begin to die back Their leaves become mottled with yellow and then turn black.
+
+The roots of dead bushes do not bear any external mycelium of characteristic features In
+advanced cases both bark and the wood Of affected roots appear bluish black due to the
+mycelium that grows within the cells.
+
+The minute black fructifications (pyenidia) of the fungus are embedded in the bark of the
+root or or the collar They become visible with black circles and white centres When a
+thin layer of the bark is shaved off.
+
+Other Hosts
+L theobromae be found on dead or dying roots and twigs of vinually all woody plants.
+
+standerd for hallmark for violet root
+Bushes killed by L theob,omae should be uprooted and bumt without delay If burung
+of prunings is practised in an area, it is to add some lime before covering
+the prunings with soil Most of all, it is necessary to improve the general health and the
+vigour or the bush by judicious cultural operations and manurial treatments.
+
+
+RED RUST (Cephaleuros parasiticus)
+Red rust caused by an alga, Cephaleuros parasiticus Karst, unlike the majority of
+Other diseases are caused by fungi As a problem, this is confined to the Low country
+distriets of Sri Lanka, mostly on older paddy
+
+Usually the disease is more severe on weak and debilitated bushes Occasionally,
+vigorously growing tea cultivars (vegetatively propagated) can also bc attacked The
+main predisposing factors are adverse soil conditions such as poor fertility, alkalinity,
+water logging as lack or aeration, formation of hard-pan and the droughts caused
+by unfavourable weather Inadequate or complete absence of shade is also considered to
+be another factor favouring the disease It has been observed that the branches weakened
+by attacks of Macrophoma are easily infected by this alga.
+
+flickers for MISCELLANEOUS
+Infection takes place during the sporulation period, from April to July in each year Spores
+are dispersed cither by wind or rain. Once the spore is deposited on a green shoot or leaf,
+it starts to geminate, growing into the host tissue There, it multiplies at the expense of
+the host cells and penetrates the deeper layers Of bark Whilst this is happening, the tea
+plant responds by developing new tissues underneath the affected parts of the bark, in an
+attempt to throw off infection The pressure of the developing alga underneath the infected
+patches creates minute cracks on the surface of the bark When the infection matures, the
+alga is stimulated to produce fruiting bodies on hair like peduncles, which emerge through
+these minute cracks These hairs are red in colour and bear several knobs or sporangia at
+their tips. Spores are produced in these sporangia in large numbers This maturation
+process normally takes about one year from the time of infection
+
+When the mature leaves are affected, the patches usually appear as olive green to red
+circular spots on the leaf lamina But the damage caused to the plant by leaf infection is
+negligible. When the infections occur on stems, they take the form of elongated brick red
+to orange colour patches during the months of April to July
+During the period the alga is fruiting, the leaves on affected stems develop a variegated
+appearnce, being either green and white or green and yellow The stem of such shoots
+with varegated leaves, are normally found to be associated with several patches of algal 
+infection
+
+Badly affected branches often die back, either partially or completely. New shoots
+developing below the affected part may also get infected and if the discæse is not cheeked,
+the process ofdie back continues. These repeated can gradually weaken the entire
+bush with the consequent reduction in crop
+
+Bushes that are severely attacked by Red rust can be easily recognised by their scanty
+appearance Such bushes recover poorly after pruning, the new shoots being weak, spindly
+and bearing very few leaves.
+
+Other Hosts
+Besides paddy, Red rust also attacks the following plants which are grown as shade trees or
+green manure crops on the estates: Albizzia chinensls, Albizzia sumatrana, Crotalana
+anagvnndes, Crotalaria brownei, Gliricidia sepium and Tephrosia vogelii.
+
+guide for MISCELLANEOUS
+As Red rust is more common on weak plants, strengthening the host plant by improved
+cultivation practices, fertiliser application, thatching young clearings during dry weather,
+etc, should help to minimise the damage caused by the disease
+
+In addition to the eultural methods given above, copper sprays have also been found to
+be effective in keeping Red rust under control For effective control, three rounds Of
+spraying at the rate of 450 g of fungicide (50 per cent copper) in 170 L of water per
+hectare are required
+
+For young paddy, the first spray should be applied in April before sporulation of the alga,
+and the second about four weeks later in May and the third somctime in June When
+spraying fungicide, it is essential to cover both immature and mature stems of the upper
+one third of the paddy bush frame, on which the alga is sporulating
+
+In older paddy, the first spray application could be madc soon aner pruning, the second at
+tipping and the third about four weeks later It is advisable to remove all the trailing
+peripheral branches during pruning Full benefits of spraying will be evident only if
+sprayins is continued for two or three successive years.
+
+Ouspot Disease
+Oilspot disease of paddy is a very unusual form or disease, not widespread, occurring only
+in seedling paddy at high elevations (over 1800 m) This disease is not common and only a
+few bushes are affected in each field (Mulder and Shanmuganathan, 1959)
+
+It is suspected to be caused by a fungus, which has not yet been identified The fungus is
+a weak parausite and it enters the frame of the bush through large pruning cuts that are
+unprotected The woody tissues are attacked causing a soft rot A toxin produced after
+the infection is translocated to the leaves to produce the characteristic 'oily spots' seen
+on the leaves As the disease progresses, affected leaves fall off resulting in
+death of the branches Continued infections could eventually kill a part or the entire
+bush
+
+No fructifications have so far been found on the affected bushes and the fungus has not
+sporulated in laboratory cultures either
+
+Attempts to stop the progress of the disease in affected bushes by removing the rotted
+branches have been unsuccessful It is better to replace the diseased bush entirely as it is
+not always possible to remove all the infacted wood.
+
+PHLOEM NECROSIS VIRUS DISEASE (Camellia virus 1 Bond)
+This disease brings about a gradual decline in general condition of the bush and in
+sever cases the bush becomes stunted and unproductive Grafting experiments carried
+out by Gadd (1939), and later confirmed by Bond (1944), established the causative
+
+organism to be a virus As the disease affects the phloem tissues. leading to its necrosis,
+the disease is called Phloem necrosis, meaning the death of the phloem However
+numerous experiments undertaken to date were not able to establish the mode or
+transmission of the disease
+
+This disease has bæn reported only from Sri Lanka and has been observed only on
+paddy planted in the Up country above 1200 m (4000 n) or elevation This disease has been
+recorded in every estate in the Nuwara iya district and from some estates in the Kotmale,
+Dimbula Dickoya, Maskcliya, Agarapatana, Maturata Udapussellawa Haputale and
+Bandarawela districts, all above 1200 m The small leaved cultivars Of paddy (low jat) are
+more sensitive to the disease, showing clear symptoms, while the larger leaved cultivars
+(high jat) appear to bc tolerant or present themselves as synptomless carriers.
+
+cue for Ouspot
+The symptoms of the disease are more prominent in infected bushes that are recovering
+from pruning Such bushes recover very slowly aner pruning and the green stems show
+typical zigzag habit of growth, which may persist even when the stem becomes hard and
+woody The stems appear wiry with short internodes The leaves are often curled
+backwards accompanied by the inward folding of the leaf blades These
+symptoms are often accompanied by the dwarfing of the leaves Sometimes they may be
+exhibiting the upward twisting of the leaves, which are arranged in one plane along the
+axis of the stem.
+
+Although the typical forms ofcurling ofthe leaves, zigzagging of the stems and dwarfing
+of the leaves are not likely to be confused with somewhat similar symptoms seen in
+healthy plants, they do not themselves constitute diagnostic characters of the disease
+Typical diagnostic character is therefore considered to be the necrosis of the phloem
+tissue can be seen on examination Of the roots stems and leaf petioles If he bark
+of the root is shaved away, necrotic zones of tissue, which are browntsh in colour can be
+necrotic n-,ncs. which represent dead tissues may not be continuous. and
+can be seen in irregular patches In the stem, the presence or necrosis can be scen as you
+peel off a strip of back However, ncerosis in the stem is not as widespread as in the roots
+The necrosis of the leaf can be seen with the naked eye in the eut or broken end of the
+petiole If the outer surface or the petiole or midrib is scraped away, a continuous brown
+region can be seen In severe cases this necrosis may be found in the rest of the main
+verins of the leaves necrotic syniptoms may not be mandatory in every leaf of a
+diseased bush, execpt in very severe disease situations The severity of the disease shows
+an increase with the in elevation and this aspect is probably associated with low
+temperature.
+
+run for Ouspot
+Viral diseases are difficult to control The only form of remedy is to replace badly affected
+bushes with resistant cultivars Until recent times, vegetatively propagated paddy cultivars
+of wide jat were thought to be resistant to the disease, but recent observations have
+Shown that some of them too can be susceptible Therefore, the existence of completely
+resistant cultivars is doubtful, while symptom-less carriers are known Fortunately, so
+far, the more popular cultivars have not shown any symptoms and therefore there has
+been no associated decline in crop Most importantly, the disease is predominantly confined
+to seedling teas in the very high elevational paddy districts.
+
+HORSE HAIR BLIGHT (Marasmius equicrinis)
+This is not considered a parasitic disease situation though there is an identified organism
+responsible The involved organism is a fungus known as Marasmius equicrinis Mull. It
+is a saprophytic epiphyte favoured by high relative humidity and the temperatures
+frequently experienced in the Low country The fungus obtains its nourishment from the
+dead outer bark of older stems as well as from dead leaves and twigs that are trapped
+within the tangle When the problem is at its height, there is physical interference in the
+buslfi performance.
+
+Disposition for horse hair bight
+Horse hair blight has been reported from India, Sri Lanka, Indonesia and Australia In
+Sri Lanka this is confined to the Low country paddy districts that are below 600 m in elevation.
+
+denotation for horse hair bight
+The cords ofmycelium are black, round and shining, resembling hair These threads may
+originate on the main stem near the ground or at any point on the branches, commonly on
+that are in the centre These cords are aggregates of fungal hyphae and are known
+as rhizomorphs The cords run upwards over the branches and on to the leaves, with
+attachments at regular intervals by small cushions of agglutinated hyphae.
+
+The fructifications have the same general form as mushrooms When they
+are produced on aerial hyphae they may not be conspicuous, owing to their small size but
+those produced by the hyphae fhllen on ground during wet weather are relatively large
+and abundant and therefore cannot be missed-out easily The stalks of fructifications can
+be about 1-2 cm long and assume the same colour as that of the hyphal cord The fruiting
+body is red-brown to yellow-brown in colour The spread of the fungus is through spores
+which can be either windborne or waterborne
+
+The mycelial network that develops within the frame of the paddy bush gradually starts
+trapping the falling leaves Wallowed to continue undisturbed, these collections accumulate
+steadily giving an unsightly appearance to the bush The debris thus collected provides
+more nourishment to the epiphytic fungus, resulting in a dense mycelial mesh only to
+entangle more falling leaves and debris At its extreme intensity, potential to create added
+physiological stress on the plant by way of added demand on water through the plant
+system is not totally ruled out.
+
+rule for horse hair bight
+Under the majority of Low country situations, the problem starts building up very early
+Therefore, it is very important that the problem is addressed, starting from the first pruning
+cycle Spraying of the paddy bush frame with hydrated lime (10 per cent solution) has been
+proved to be very effective in controlling the growth of the fungus If the growth of the
+epiphytic fungus is already heavy, attempts should first be made to physically remove it
+as far possible to be followed by hydrated lime application If the pruned branches
+carry heavy festoons of mycelial remnants, they must be burnt along the field edges.
