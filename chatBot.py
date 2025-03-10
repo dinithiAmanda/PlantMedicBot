@@ -13,6 +13,7 @@ from nltk.chat.util import Chat, reflections
 # * first-time use only
 # nltk.download('punkt')
 # nltk.download('wordnet')
+# nltk.download('punkt_tab')
 
 import warnings
 warnings.filterwarnings("ignore")
